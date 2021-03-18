@@ -527,25 +527,25 @@ Métodos adicionais de operação nesses locais podem ser explorados, mas eles s
 
 ## Além da Fisicalidade - Em Direção à Informação
 
-Uma das grandes vantagens das Zonas Autônomas Temporárias é a habilidade de se viver como se fosse livre - pois você é, pelo menos nesse momento de local e tempo.
+Uma das grandes vantagens das Zonas Autônomas Temporárias (ZAT) é a habilidade de se viver como se fosse livre - pois você é, pelo menos nesse momento de local e tempo.
 
-Essa vantagem não é válida apenas para locais físicos, mas também para locais digitais. Mesmo que o termo "lugar digital" seja enganoso porque a fisicalidade de uma esfera digital é insignificante, mas pode servir algumas das finalidades que uma *ZAT* física pode cumprir.
+Essa vantagem não é válida apenas para locais físicos, mas também para locais digitais. Mesmo que o termo "lugar digital" seja enganoso porque a fisicalidade de uma esfera digital é insignificante, mas pode servir à algumas das finalidades que uma *ZAT* física pode cumprir.
 
 ---
 
 Criar uma zona digital autônoma, uma zona digital _permanente_, nos permite socializar, comunicar e fazer trocas em um ambiente que pode ser fortemente protegido contra o envolvimento de um terceiro e coerção através da tecnologia e criptografia.
 
-Aqui as pessoas podem falar umas com as outras como se o Estado não existisse, elas podem planejar ou até conduzir trocas sem ter que gastar um pensamento se quer sobre a esfera legal que seu corpo físico reside. Uma grande parte de nossa vida que não é tolerada pela sociedade ao nosso redor pode ser conduzida na segurança do ciberespaço.^[A esfera digital que é fortemente protegida por criptografia e usa um modelo criptografico para assegurar algumas regras.]
+Aqui as pessoas podem falar umas com as outras como se o Estado não existisse, elas podem planejar ou até conduzir trocas sem ter que gastar um pensamento sequer sobre a esfera legal que seu corpo físico reside. Uma grande parte de nossa vida que não é tolerada pela sociedade ao nosso redor pode ser conduzida na segurança do ciberespaço.^[A esfera digital que é fortemente protegida por criptografia e usa um modelo criptográfico para assegurar algumas regras.]
 
-Já que anonimizar a tecnologia e a criptografia podem separar nosso corpo coersível de nossa mente ativa e identidade, nós temos a habilidade de experimentar com novas formas culturais, sociais e juricas aqui - sem o risco de ir preso ou julgado.
-
----
-
-Dito isso, zonas autônomas digitais não podem substituir os aspectos espaciais da nossa humanidade. É dificil beber algo no ciberespaço, você não pode olhar para cada rosto durante uma negociação e apenas bens digitais podem ser negociados diretamente. Quando combinamos zonas autônomas digitais e físicas, o melhor de dois mundos pode ser usufruido: usando tecnologia digital para negociações e reuniões ad-hoc usando zonas físicas para entregar as mercadorias ou para tomar uma juntos. Isso é crucial para a ligação social. Frequentemente, a parte mais arriscada durante uma transação - entregar o dinheiro e fazer cumprir os contratos - podem ser transferidos para o ciberespaço onde a proteção é garantida através de uso de matemática avançada. Falaremos sobre algumas das tecnologias necessárias abaixo.
+Já que anonimizar a tecnologia e a criptografia podem separar nosso corpo coercível de nossa mente ativa e identidade, nós temos a habilidade de experimentar com novas formas culturais, sociais e jurídicas aqui - sem o risco de ir preso ou julgado.
 
 ---
 
-Combinando zonas autônomas tanto fisícas quanto digitais, portanto, nos fornece um amplo conjuto de métodos de proteção que nos permitem agir livremente, pois somos livres.
+Dito isso, zonas autônomas digitais não podem substituir os aspectos espaciais da nossa humanidade. É difícil beber algo no ciberespaço, você não pode olhar para cada rosto durante uma negociação e apenas bens digitais podem ser negociados diretamente. Quando combinamos zonas autônomas digitais e físicas, o melhor de dois mundos pode ser usufruído: usando tecnologia digital para negociações e reuniões ad-hoc usando zonas físicas para entregar as mercadorias ou para tomar uma juntos. Isso é crucial para a ligação social. Frequentemente, a parte mais arriscada durante uma transação - entregar o dinheiro e fazer cumprir os contratos - podem ser transferidos para o ciberespaço onde a proteção é garantida através de uso de matemática avançada. Falaremos sobre algumas das tecnologias necessárias abaixo.
+
+---
+
+Combinando zonas autônomas tanto físicas quanto digitais, portanto, nos fornece um amplo conjunto de métodos de proteção que nos permitem agir livremente, pois somos livres.
 
 ## O Futuro
 
@@ -553,9 +553,9 @@ O impacto total das zonas autônomas vai se mostrar em um futuro próximo. As te
 
 ---
 
-Existem várias tecnologias e tendências econômicas que devem ser mantidas no radar de qualquer anarco-capitalista.
+Existem várias tecnologias e tendências econômicas que devem ser mantidas no radar de qualquer anarcocapitalista.
 
-Duas dessas tecnologias são o advento de vários tipos de agricultura urbana, especialmente a agricultura urbana vertical industrial (que promete fazer a produção de alimentos para muitos milhares de consumidores possível e aconômica - em um unico arranha-céu) e microfabricação. Microfabricação é a produção automatizada de peças por meio de impressão 3D sem a necessidade do desenvolvimento de ferramentas especiais. Isso permitirá o download de planos de construção da internet e a impressão subsequente de geometria complexa com impressoras 3D que não requerem atenção durante a operação. O número de mateiais básicos disponíveis para esse método está aumentando rapidamente e logo permitirá que qualquer pessoa com as habilidades certas concorra com instalações especializadas de produção de alto capital com uma fração do risco e do investimento.
+Duas dessas tecnologias são o advento de vários tipos de agricultura urbana, especialmente a agricultura urbana vertical industrial (que promete fazer a produção de alimentos para muitos milhares de consumidores possível e econômica - em um único arranha-céu) e microfabricação. Microfabricação é a produção automatizada de peças por meio de impressão 3D sem a necessidade do desenvolvimento de ferramentas especiais. Isso permitirá o download de planos de construção da internet e a impressão subsequente de geometria complexa com impressoras 3D que não requerem atenção durante a operação. O número de materiais básicos disponíveis para esse método está aumentando rapidamente e logo permitirá que qualquer pessoa com as habilidades certas concorra com instalações especializadas de produção de alto capital com uma fração do risco e do investimento.
 
 Essas e outras tecnologias reforçam uma tendência que pode ser vista em partes crescentes das economias ocidentais, que é a passagem de uma cultura de consumo em massa para uma cultura de produção-e-consumo, na qual muito mais pessoas são autônomas, as lojas de artesãos voltam para o ambiente urbano e os produtos da produção em massa perdem o encanto.
 
@@ -571,24 +571,24 @@ Há pouca discordância que trocas - e qualquer outra interação social - deva 
 
 Essa ameaça é fundada em nossa oposição à provisão de justiça compulsória pelo Estado.
 
-De um lado nós não podemos usar o sistema de justiça do Estado como solução para violações que experimentamos de forasteiros, o que requer que tenhamos nossos próprios meios de nos defender contra a agressão de terceiros e alcançar justiça se a defesa falhar. Nós precisamos do nosso próprio sistema de justiça e mecanismos de aplicação.
+Por um lado nós não podemos usar o sistema de justiça do Estado como solução para violações que experimentamos de forasteiros, o que requer que tenhamos nossos próprios meios de nos defender contra a agressão de terceiros e alcançar justiça se a defesa falhar. Nós precisamos do nosso próprio sistema de justiça e mecanismos de aplicação.
 
-De outro lado, os braços de sistema de justiça e aplicação da lei estatal são contrários à existência de nossos sistemas e as ações que participamos fora de sua esfera proclamada. Nós, portanto, nos deparamos com o Estado tentando se intrometer em nossos negócios e nos punir por não obedece-lo ou nos esconder de seus agentes.
+De outro lado, os braços de sistema de justiça e aplicação da lei estatal são contrários à existência de nossos sistemas e as ações que participamos fora de sua esfera proclamada. Nós, portanto, nos deparamos com o Estado tentando se intrometer em nossos negócios e nos punir por não obedecê-lo ou nos esconder de seus agentes.
 
 ---
 
 O segundo problema - perseguição pelo Estado - merece que pensemos mais a respeito.
-Como protegemos nós mesmos contra um oponente tão poderoso?
+Como nos protegemos contra um oponente tão poderoso?
 
 Deixe-nos introduzir alguns conceitos aqui que podem nos ajudar a projetar métodos para combater essa ameaça.
 
 ---
 
-Pseudonimidade. Um dos métodos de controle que são usados por nossos oponentes, que permeam a cultura vigente e é estrita dentro da maioria das instituições de cooperação, é o uso de "Nomes Verdadeiros" - nossa identidade oficial, sancionada pelo Estado e amplamente conhecida da qual cada um de nós deve ter apenas um, e que segura juntas todas as nossas ações. Certamente ter e usar nomes é um pre-requisito em várias interações sociais e comerciais. Sem isso nós não conseguimos nos encontrar novamente de forma fácil, dirigir-se um ao outro, ou ter uma história que permite que outros se refiram a nós.
+Pseudonimidade. Um dos métodos de controle que são usados por nossos oponentes, que permeiam a cultura vigente e é estrita dentro da maioria das instituições de cooperação, é o uso de "Nomes Verdadeiros" - nossa identidade oficial, sancionada pelo Estado e amplamente conhecida da qual cada um de nós deve ter apenas um, e que segura juntas todas as nossas ações. Certamente ter e usar nomes é um pré-requisito em várias interações sociais e comerciais. Sem isso nós não conseguimos nos encontrar novamente de forma fácil, dirigir-se um ao outro, ou ter uma história que permite que outros se refiram a nós.
 
 Porém, não há necessidade de que esses nomes sejam os que nossos pais nos deram ao nascer, ou que sejam reconhecidos pelo Estado, ou até que cada um de nós leve apenas um nome uma vez e para sempre.
 
-Pseudonimidade é o conceito de ter nomes alternativos e identidades que nós revelamos a medida que são necessários, que estão atrelados a suas próprias histórias e reputações. Quebrando o feitiço de nosso "Nome Verdadeiro" e usar identidades escolhidas por nós mesmos, específicas por atividade, nos permite limitar a habilidade de nossos oponentes de atrelar todas as nossas ações à coleira que nos amarra a eles e ao mesmo tempo utilizarmos as funções que nomes e identidades provém. Esses pseudônimos não precisam ser registrados pelo Estado nem associados à nossa identidade verdadeira desde que métodos específicos de garantia e aplicação de regras estejam disponíveis.
+Pseudonimidade é o conceito de ter nomes alternativos e identidades que nós revelamos a medida que são necessários, que estão atrelados a suas próprias histórias e reputações. Quebrando o feitiço de nosso "Nome Verdadeiro" e usar identidades escolhidas por nós mesmos, específicas por atividade, nos permite limitar a habilidade de nossos oponentes de atrelar todas as nossas ações à coleira que nos amarra a eles e ao mesmo tempo utilizarmos as funções que nomes e identidades provém. Esses pseudônimos não precisam ser registrados pelo Estado nem associados à nossa identidade verdadeira, desde que métodos específicos de garantia e aplicação de regras estejam disponíveis.
 
 ---
 
@@ -602,7 +602,7 @@ Opacidade. A maioria de nós foi treinada a ver qualquer segredo e não-transpar
 
 Segredos por si só nunca são um problema, é a fraude e a coerção que eles poderiam esconder que são fonte de perigo. Quando nós projetamos nossos sistemas de forma que as partes diretamente e voluntariamente envolvidas são os únicos que podem ser afetados de forma relevante, se torna claro que essas partes podem manter um segredo entre elas contra todas as outras partes que não estão diretamente envolvidas.
 
-Logo, opacidade de ação em relação a partes não afetadas pode nos proteger de intervenção de terceiros e punição sem trazer perigos adicionais. Não há justificativa para qualquer um que não o comprador e o vendedor a saber quem está vendendo o que para quem. Ninguém precisa saber o que a pessoa A diz para a pessoa B se nenhum interesse de outra pessoa está ameaçado.
+Logo, opacidade de ação em relação a partes não afetadas pode nos proteger de intervenção de terceiros e punição sem trazer perigos adicionais. Não há justificativa para qualquer um que não o comprador e o vendedor, saber quem está vendendo o que para quem. Ninguém precisa saber o que a pessoa A diz para a pessoa B se nenhum interesse de outra pessoa está ameaçado.
 
 Já que nós utilizamos a palavra "justificado" ou "justificativa" repetidamente acima, sejamos claros do que ela significa: Nosso conhecimento das ações - ou nosso envolvimento com elas - é apenas justificado se elas envolvem nossa propriedade ou acordos conflitantes que tenhamos com qualquer uma das partes atuantes. **Qualquer coisa que não envolva qualquer uma dessas coisas - propriedade ou contrato - simplesmente não é da nossa conta.**
 
@@ -617,28 +617,28 @@ Isso impede agressores de revelar informações ao ligar várias trocas ou peda�
 
 ---
 
-Compartimentalização. Novamente, é a atitude quase onipresente que rasteja em nossos subconscientes que nos traz ao bisbilhotamento, hierarquias de comando-e-controle e àquele sentimento estranho de que não pediram nossa permissão nem nos envolveram em tudo - mesmo quando não tem justificativa pra sermos incluidos.
+Compartimentalização. Novamente, é a atitude quase onipresente que rasteja em nossos subconscientes que nos traz ao bisbilhotamento, hierarquias de comando-e-controle e àquele sentimento estranho de que não pediram nossa permissão nem nos envolveram em tudo - mesmo quando não tem justificativa pra sermos incluídos.
 
-Em vez disso, deveriamos começar a apreciar a iniciativa individual e a competição de idéias e soluções sem que tudo seja planejado central ou coletivamente, amplamente difundido e perfeitamente sincronizado.
+Em vez disso, deveríamos começar a apreciar a iniciativa individual e a competição de ideias e soluções sem que tudo seja planejado central ou coletivamente, amplamente difundido e perfeitamente sincronizado.
 Enquanto nossa curiosidade humana deseja ser fomentada é por vezes mais lucrativo separar nossas ações das dos outros de forma que um terceiro seja impedido de vigiar o processo todo ou de juntar informação o suficiente para agir contra nós.
 
 ---
 
-Negabilidade. Se todos os esforços anteriores em impedir que nossos oponentes tenham uma visão clara do que fazemos falharem, se faz necessário que ao menos os impeçamos eles de usar essa informação contra nós como indivíduos. É aqui que entra a negabilidade e também coloca todos os outros métodos em contexto.
+Negabilidade. Se todos os esforços anteriores em impedir que nossos oponentes tenham uma visão clara do que fazemos falharem, se faz necessário que ao menos os impeçamos de usar essa informação contra nós como indivíduos. É aqui que entra a negabilidade e também coloca todos os outros métodos em contexto.
 
-Ser capaz de negar nosso envolvimento em uma ação específica de forma plausível deixa mais difícil que um terceiro nos acuse com convicção, assim evitando sermos lezados quando todo o resto falhar.
+Ser capaz de negar nosso envolvimento em uma ação específica de forma plausível deixa mais difícil que um terceiro nos acuse com convicção, assim evitando sermos lesados quando todo o resto falhar.
 
 ---
 
-Os conceitos introduzidos acima - Negabilidade, Opacidade, Irrastreabilidade, Compartimentalização, Anonimidade e Pseudonimidade ^[Mnemônico: NO, I CAP] - aplicados nessa ordem, são o antidoto para a onisciência imaginária de nossos oponentes. Em vez de dispersar a informação por toda parte e deixar para trás rastros a cada movimento, a base disso é o **Princípio da Necessidade-de-Saber.** É necessário limitar a informação ao mínimo do mínimo para as partes convidadas e envolvidas. A informação justamente requerida pode, e vai, variar caso a caso, mas partes não convidadas nem afetadas devem ser impedidas de obter qualquer informação significante ou usar de dedução à conclusões potencialmente danosas. A arte de implementar os objetivos de "Necessidade-de-Saber" é comumente conhecido como **Tradecraft.**
+Os conceitos introduzidos acima - Negabilidade, Opacidade, Irrastreabilidade, Compartimentalização, Anonimidade e Pseudonimidade ^[Mnemônico: NO, I CAP] - aplicados nessa ordem, são o antídoto para a onisciência imaginária de nossos oponentes. Em vez de dispersar a informação por toda parte e deixar para trás rastros a cada movimento, a base disso é o **Princípio da Necessidade-de-Saber**. É necessário limitar a informação ao mínimo do mínimo para as partes convidadas e envolvidas. A informação justamente requerida pode, e vai, variar caso a caso, mas partes não convidadas nem afetadas devem ser impedidas de obter qualquer informação significante ou usar de dedução à conclusões potencialmente danosas. A arte de implementar os objetivos de "Necessidade-de-Saber" é comumente conhecido como **Tradecraft**.
 
 ---
 
 Usar a estratégia de informação mínima traz alguns riscos próprios.
 
-Primeiro, pode ser contraprodutivo para a coesão social dentro da nossa sobcultura e grupos sociais. Isso requer que nós não deixemos que a paranóia nos governe e nem que a segurança se torne uma religião. Uma contramedida a esse tipo de risco é a especialização descrita na próxima seção.
+Primeiro, pode ser contraprodutivo para a coesão social dentro da nossa subcultura e grupos sociais. Isso requer que nós não deixemos que a paranóia nos governe e nem que a segurança se torne uma religião. Uma contramedida a esse tipo de risco é a especialização descrita na próxima seção.
 
-O segundo risco é que nós negligenciemos a necessidade de evidências para viabilizar nosso sistema interno de justiça.
+O segundo risco é o de que nós negligenciemos a necessidade de evidências para viabilizar nosso sistema interno de justiça.
 Há duas soluções para isso. Uma é que nós devemos projetar métodos de interação que limitam drasticamente o potencial para comportamento criminoso ou outrora prejudicial. Alguns desses métodos são mencionados mais além.
 
 Outra forma é lembrar-nos que a evidência não precisa estar disponível publicamente sem que uma parte envolvida denuncie uma transgressão. Nós podemos projetar nossos sistemas de forma que apenas as partes afetadas podem recorrer à evidência revelada sob demanda para que possa ser apresentada à mediação ou procedimento de arbitragem.
