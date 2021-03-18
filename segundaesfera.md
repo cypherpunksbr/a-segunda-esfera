@@ -409,40 +409,40 @@ Grupos de crime organizado: Todo mundo conhece a máfia italiana, a Yakuza, as T
 
 A máfia, por exemplo, é primeiramente uma rede solta de gangues independentes que pagam tributos a seus dons e recebem proteção e seu próprio sistema de resolução de conflitos em troca. Seu objetivo é limitar o conflito dentro dos grupos e não ter que usar da violência quando outras formas de resolução de conflitos estão disponíveis. Eles operam seu próprio sistema de territórios e mercados, eles provêem serviços de comunicação e reputação, e adotam a divisão de trabalho pela especialização. Alguém poderia definir a máfia como uma associação criminosa de negócios baseados em valores morais compartilhados.
 
-Similarmente as Triads são estabelecidas na etnicidade (Chineses Han) e compartilham de uma narrativa cultural (resistencia ao domínio Manchu). Eles existem a séculos, na maior parte por estabelecer uma sociedade integrada e tentar limitar suas atividades a conflito interno, explorando criminosos de rua e focando em crimes menos públicos.
+Similarmente as Triads são estabelecidas na etnicidade (Chineses Han) e compartilham de uma narrativa cultural (resistência ao domínio Manchu). Eles existem a séculos, na maior parte por estabelecer uma sociedade integrada e tentar limitar suas atividades a conflito interno, explorando criminosos de rua e focando em crimes menos públicos.
 
-Um padrão similar de narrativa social, foco moral e intervenção bem ministrada à esfera pública se mostra na Yakuza. Eles inclusive focam bastante em serem reconheciveis pelo público.
+Um padrão similar de narrativa social, foco moral e intervenção bem ministrada à esfera pública se mostra na Yakuza. Eles inclusive focam bastante em serem reconhecíveis pelo público.
 
 Enquanto os três exemplos anteriores cobrem organizações mais antigas, as gangues de moto são um fenômeno mais recente. Eles mostram abertamente sua imagem de fora da lei como parte de sua cultura, criam suas próprias normas e usam sua própria forma de justiça.
 
 ---
 
-Todos os exemplos anteriores compartilham de algumas caracteristicas na operação e organização que podem servir de dicas do que estruturas paralelas de sucesso precisam.
+Todos os exemplos anteriores compartilham de algumas características na operação e organização que podem servir de dicas do que estruturas paralelas de sucesso precisam.
 
-Primeiro, eles são todos baseados em sua própria cultura e valores independentes. Não são caóticos e "sem lei", mas tem suas próprias leis que são, por muitas vezes, mais estritas e mais conservadoras que a cultura convencional. Por exemplo, a Yakuza proibe seus membros de participarem em roubos, a Máfia pune membros por adultério e todos eles levam a palavra do indivíduo e contratos verbais muito a sério.
+Primeiro, eles são todos baseados em sua própria cultura e valores independentes. Não são caóticos e "sem lei", mas tem suas próprias leis que são, por muitas vezes, mais estritas e mais conservadoras que a cultura convencional. Por exemplo, a Yakuza proíbe seus membros de participarem em roubos, a Máfia pune membros por adultério e todos eles levam a palavra do indivíduo e contratos verbais muito a sério.
 
-Outra caracteristica comum é que esses grupos normalmente tentam limitar a violência para com sua própria comunidade em vez de espalhar o cáos.
+Outra característica comum é que esses grupos normalmente tentam limitar a violência para com sua própria comunidade em vez de espalhar o caos.
 Isso por dois motivos: Obviamente isso evita chamar atenção da polícia e da opinião pública que poderia dificultar seus negócios, mas essas pessoas também se entendem como parte de sua comunidade local, da qual muitas vezes se esforçam para proteger e ajudar. Isso tem um efeito colateral positivo de ganhar o apoio do público dentro de sua presença territorial.
 
-Contrária à opinião popular, esses grupos não são estruturas de comando hierarquicas. Sub-grupos são por muitas vezes autônomos e não seguem planejamento hierarquico. Em vez disso, eles partilham parte de seus lucros com a organização em retorno de serviços especializados, investimento e fornecimento de justiça. Frequentemente esses grupos tem de responder para líderes apenas por causar muitos problemas, serem muito violentos ou interferirem com o negócio de outros sub-grupos. Além disso eles são, no geral, independentes.
+Contrária à opinião popular, esses grupos não são estruturas de comando hierárquicas. Sub-grupos são por muitas vezes autônomos e não seguem planejamento hierárquico. Em vez disso, eles partilham parte de seus lucros com a organização em retorno de serviços especializados, investimento e fornecimento de justiça. Frequentemente esses grupos têm de responder para líderes apenas por causarem muitos problemas, serem muito violentos ou interferirem com o negócio de outros subgrupos. Além disso, eles são, no geral, independentes.
 
 A última semelhança a ser apontada é que esses grupos controlam locais como clubes, escritórios, restaurantes ou lugares similares onde eles podem se encontrar e conduzir seus negócios longe do público e onde podem se proteger de invasões surpresa ou infiltrados, tendo pessoal em todos os turnos 24 horas por dia, alarmes, guaritas, guardas e tecnologia de segurança.
 
 ---
 
-Claro que esses grupos conduzem negócios que são anti-éticos e usam métodos que entram em conflito com as regras de engajamento das quais nos limitamos, no entanto eles também fornecem algumas dicas para estabilidade a longo prazo e organizações fora da lei. Essas são:
+Claro que esses grupos conduzem negócios que são antiéticos e usam métodos que entram em conflito com as regras de engajamento das quais nos limitamos, no entanto eles também fornecem algumas dicas para estabilidade a longo prazo e organizações fora da lei. Essas são:
 
-1. Eles definem e sustentam sua própria **cultura paralela e sociedade.**
+1. Eles definem e sustentam sua própria **cultura paralela e sociedade**.
 
-2. Eles seguem uma **conduta de minima-intervenção** ao que condiz com gente de fora, especialmente nas esferas de violência.
+2. Eles seguem uma **conduta de mínima-intervenção** ao que condiz com gente de fora, especialmente nas esferas de violência.
 
-3. **Autonomia local** para sub-grupos os protege de decaptação e maximiza sua flexibilidade.
+3. **Autonomia local** para subgrupos, os protege de decapitação e maximiza sua flexibilidade.
 
-4. Eles criam uma imagem positiva para sua **comunidade local** através de atos de ajuda e alivio econômico.
+4. Eles criam uma imagem positiva para sua **comunidade local** através de atos de ajuda e alívio econômico.
 
-5. **Locais autônomos temporários** os provêem com espaço protegido para conduzir seus negócios. Esses locais existem por tempo suficiente para justifica-los como semi-permanentes.
+5. **Locais autônomos temporários** os provêem com espaço protegido para conduzir seus negócios. Esses locais existem por tempo suficiente para justificá-los como semi-permanentes.
 
-6. Usam **especialização e divisão de trabalho**, eles criam um mercado interno para o fernecimento de serviços comuns necessários para seus sub-grupos.
+6. Usam **especialização e divisão de trabalho**, eles criam um mercado interno para o fornecimento de serviços comuns necessários para seus subgrupos.
 
 7. Eles tem um foco altíssimo em operar seus próprios **sistemas independentes de justiça internos** e código legal.
 
@@ -468,9 +468,9 @@ Há vários exemplos os quais diferem em autonomia e duração, de zonas permane
 
 O mais antigo desses exemplos pode ser encontrado na Europa da idade média na forma de Guetos, que não só serviam como um local para concentrar grupos sociais "indesejados", mas para dar a esses grupos autonomia interna na forma de seus próprios impostos e sistemas de justiça. Mais relevantes nesse respeito são os guetos da diáspora judaica.
 
-Outro exemplo pode ser encontrado hoje na America Latina onde as favelas não só são excluídas de receber serviços oficiais do governo como também constituem zonas autônomas permanentes nas quais a força governamental só desempenha um papel durante incursões estratégicas, mas não no dia-a-dia. Na mesma categoria estão os arranha-céus ocupados em várias cidades Latino Americanas que não foram visitados por nenhum agente estatal para funções oficiais por anos.
+Outro exemplo pode ser encontrado hoje na América Latina onde as favelas não só são excluídas de receber serviços oficiais do governo como também constituem zonas autônomas permanentes nas quais a força governamental só desempenha um papel durante incursões estratégicas, mas não no dia-a-dia. Na mesma categoria estão os arranha-céus ocupados em várias cidades Latino Americanas que não foram visitados por nenhum agente estatal para funções oficiais por anos.
 
-A Cidade Murada de Kowloon foi outro exemplo dessas zonas autônomas semi-permanente até a sua demolição em 1993. Localizada no território não disputado na fronteira da Hong Kong Britânica, com uma planta de aproximadamente um quilometro quadrado, foi um local amplamente não governado desde meados de 1950 e era lar de mais de 33mil pessoas.
+A Cidade Murada de Kowloon foi outro exemplo dessas zonas autônomas semi-permanente até a sua demolição em 1993. Localizada em território não disputado na fronteira da Hong Kong Britânica, com uma planta de aproximadamente um quilômetro quadrado, foi um local amplamente não governado desde meados de 1950 e era lar de mais de 33 mil pessoas.
 
 ---
 
@@ -480,50 +480,50 @@ Zonas Autônomas Temporárias nos dão a oportunidade para nossa cultura existir
 
 ---
 
-No entando, nossas zonas autônomas são por vezes muito limitadas em tempo. Nós precisamos de uma "política externa" que aumente sua duração e faça-as seguras para atividades sociais e comerciais.
+No entanto, nossas zonas autônomas são por vezes muito limitadas em tempo. Nós precisamos de uma "política externa" que aumente sua duração e as faça seguras para atividades sociais e comerciais.
 
-Para isso existem dois métodos no geral. O primeiro envolve ter criado a zona autônoma temporaria em segredo, escondida da atenção do Estado que a cerca. Enquanto isso pode funcionar por um tempo, é muito limitada, já que eventualmente o local vai ficar conhecido e meios adicionais de estabilidade serão necessários. O segundo método foca em alcançar uma "tolerância informal" pelas autoridades estatais. Para isso a zona deve atender três critérios:
+Para isso existem dois métodos no geral. O primeiro envolve ter criado a zona autônoma temporária em segredo, escondida da atenção do Estado que a cerca. Enquanto isso pode funcionar por um tempo, é muito limitada, já que eventualmente o local vai ficar conhecido e meios adicionais de estabilidade serão necessários. O segundo método foca em alcançar uma "tolerância informal" pelas autoridades estatais. Para isso a zona deve atender três critérios:
 
 ---
 
 Primeiro, a zona não deve se tornar um incômodo para os vizinhos nem ser conhecida como problemática para pessoas e propriedades fora da zona.
-Em especial isso inclui que os direitos de propriedade do território devem ser respeitados e que um acordo deve ser alcançado com os donos antes de conduzir qualquer atividade autônoma no local. Qualquer justificativa para influência de terceiros deve ser previnida.
+Em especial isso inclui que os direitos de propriedade do território devem ser respeitados e que um acordo deve ser alcançado com os donos antes de conduzir qualquer atividade autônoma no local. Qualquer justificativa para influência de terceiros deve ser prevenida.
 
-Segundo, a zona e seus habitantes devem aderir estritamente ao princípio **"o que acontece na zona fica na zona,"** significando que todos os conflitos devem ser resolvidos sem a intervenção de agentes da lei externos. Isso implica que devemos lidar com arroaceiros internos de forma imediata; antes que o conflito possa se escalar. Além disso, agentes estatais e proponentes devem ser desencorajados de visitar o local. Normalmente isso ocorre não convidando pessoas de reputação questionável ou amigos conhecidos do Estado.
+Segundo, a zona e seus habitantes devem aderir estritamente ao princípio **"o que acontece na zona fica na zona"**, significando que todos os conflitos devem ser resolvidos sem a intervenção de agentes da lei externos. Isso implica que devemos lidar com arruaceiros internos de forma imediata; antes que o conflito possa se escalar. Além disso, agentes estatais e proponentes devem ser desencorajados de visitar o local. Normalmente isso ocorre não convidando pessoas de reputação questionável ou amigos conhecidos do Estado.
 
-Terceiro, o custo da intervenção por uma parte de fora deve ser engrandecido ao ponto de se tornar injustificável, e que é mais lucro para o atacante fazer vista grossa. Enquanto propinas são uma forma comum que alcançar esse objetivo, uma tática mais completa promete sucesso:
+Terceiro, o custo da intervenção por uma parte de fora deve ser engrandecido ao ponto de se tornar injustificável, e que seja mais lucrativo para o atacante fazer vista grossa. Enquanto propinas são uma forma comum de  alcançar esse objetivo, uma tática mais completa promete sucesso:
 
 > **E**sconder, **S**aber, **A**trasar, **D**efender, **D**estruir, **R**ecuperar. ^[Mnemônica: Esses socialistas adoram duvidar da razão]
 
-Primeiro, **esconda** qualquer informação sobre o que acontece dentro da zona de espionagem de fora. Isso requer o uso de controle de acesso para impedir ameaças potenciais de entrarem na área assim como contra-medidas a espionagem de sinais de dentro e especialmente por fora. Por exemplo, um lugar desses não deveria ter linhas de comunicação obvias conectando ele ao mundo mas em vez disso usar tecnologia de anonimização para esconder o conteúdo e fonte de sua comunicação. E mais, a área não deveria ser observável por fora e deve ser dada atenção especial para ataques de espionagem.
+Primeiro, **esconda** qualquer informação sobre o que acontece dentro da zona de espionagem externa. Isso requer o uso de controle de acesso para impedir ameaças potenciais de entrarem na área assim como contra-medidas a espionagem de sinais de dentro e especialmente por fora. Por exemplo, um lugar desses não deveria ter linhas de comunicação óbvias conectando ele ao mundo, mas em vez disso usar tecnologia de anonimização para esconder o conteúdo e fonte de sua comunicação. E mais, a área não deveria ser observável por fora e deve ser dada atenção especial para ataques de espionagem.
 
-Segundo, alguém precisa **saber** quando um ataque físico - uma incursão - contra o local está em planejamento ou ocorrendo. Isso requer formas de ficar de olho ao redor e ter um sistema de alarme para avisar a todos na área que um ataque é eminente.
+Segundo, alguém precisa **saber** quando um ataque físico - uma incursão - contra o local está em planejamento ou ocorrendo. Isso requer formas de ficar de olho ao redor e ter um sistema de alarme para avisar a todos na área que um ataque é iminente.
 
-Terceiro, **atrasar** o agressor com formas passivas para previnir que esse execute um ataque surpresa. Normalmente envolve várias barreiras, como várias portas reforçadas que precisam ser quebradas antes que a área de interesse principal seja alcançada. Isso é necessário para possibilitar que os ocupantes da zona autônoma temporária possam:
+Terceiro, **atrasar** o agressor com formas passivas para prevenir que esse execute um ataque surpresa. Normalmente envolve várias barreiras, como várias portas reforçadas que precisam ser quebradas antes que a área de interesse principal seja alcançada. Isso é necessário para possibilitar que os ocupantes da zona autônoma temporária possam:
 
-Quarto, **defender** o local. Enquanto opcional contra agressores do Estado isso é uma necessidade contra incursões de agentes não estatais como gangues e outras formas violentas de crime organizado que esperam encontrar objetos de valor ou tomar território. No caso de agentes não estatais, defesa por dissuasão pode se provar lucrativa. Isso pode ser feito ao mostrar que ambos sistemas de alarme e formas de atraso estão presentes, por exemplo sistemas de cameras de segurança e barreiras de arame farpado.
+Quarto, **defender** o local. Enquanto opcional contra agressores do Estado isso é uma necessidade contra incursões de agentes não estatais como gangues e outras formas violentas de crime organizado que esperam encontrar objetos de valor ou tomar território. No caso de agentes não estatais, defesa por dissuasão pode se provar lucrativa. Isso pode ser feito ao mostrar que ambos sistemas de alarme e formas de atraso estão presentes, por exemplo sistemas de câmeras de segurança e barreiras de arame farpado.
 
 Quinto, qualquer atacante deve sempre ser frustrado na busca por seu objetivo durante o ataque. Isso normalmente significa que qualquer coisa que pode ser do interesse deles deve ser **destruído** ou removido. Isso serve um propósito duplo. De um lado desencoraja o atacante e outros depois dele de atacar tal área novamente porque o custo do ataque ultrapassa qualquer lucro ganho com isso.
 Por outro lado, serve para proteger qualquer informação de chegar nos atacantes. Os mantém longe de qualquer coisa que poderia ser usada tanto para planejar futuros ataques ou como evidência em um julgamento contra os ocupantes da zona.
-No caso de atividades de mercado negro o produto deve ser separado do comerciante para que a posse não possa ser provada e o comerciante condenado. Para isso ter sucesso, medidas anti-espionagem devem ser levadas a sério.
+No caso de atividades de mercado negro o produto deve ser separado do comerciante para que a posse não possa ser provada e o comerciante, condenado. Para isso ter sucesso, medidas anti-espionagem devem ser levadas a sério.
 
-Por último, é necessário que não se desista da estratégia após o primeiro ataque bem sucedido. Qualquer operação deve estar empenhada em se **recuperar** para ser estável a longo prazo. Enquanto ataques para "assustar" podem ser lucrativos para o atacante se a estratégia for abandonada, ataques rapidamente repetidos se tornam problemáticos tanto em questão de custo quanto opinião pública.
+Por último, é necessário que não se desista da estratégia após o primeiro ataque bem sucedido. Qualquer operação deve estar empenhada em se **recuperar** para ser estável a longo prazo. Enquanto ataques para "assustar" podem ser lucrativos para o atacante se a estratégia for abandonada, ataques rapidamente repetidos se tornam problemáticos tanto em questão de custo quanto em opinião pública.
 
-É muito importante que se enfatize que não estamos falando sobre uma "base militar" que foi criada para desencorajar um ataque. Ao invés o objetivo na nossa proposta é criar áreas que façam ataques repetidos (mesmo com exito) por lucro ou evidência muito caros e menos atraentes. Qualquer forma direta de batalha aberta com os agentes estatais levará a derrota e perdas de vidas e liberdade. Nosso objetivo é manter a evidência longe das mãos de agressores. A única situação que um conflito direto pode ser lucrativo é contra criminosos violentos não estatais.
-
----
-
-Para nossos propósitos, uma zona temporária autônoma dessas pode ir de clubes de negócios de natureza semi-permanete até feiras de rua que só duram algumas horas. Os requisitos de segurança para diferentes tipos de zona podem variar significantimente, de acordo com os riscos que enfrentam. Para a maioria das operações um restaurante bem administrado com uma sala nos fundos e pessoal 24 horas podem ser suficientes. De qualquer forma deve-se prestar atenção aos princípios táticos mencionados acima.
-
-O propósito principal de uma zona autônoma temporária em nossa estratégia continua sendo a de **"manter a evidência longe das mãos de agressores, e de ter um local seguro para nossa cultura e negócios."**
+É muito importante que se enfatize que não estamos falando sobre uma "base militar" que foi criada para desencorajar um ataque. Ao invés disto, o objetivo da nossa proposta é criar áreas que façam ataques repetidos (mesmo com êxito) por lucro ou evidência, muito caros e menos atraentes. Qualquer forma direta de batalha aberta com os agentes estatais levará a derrota e perdas de vidas e liberdade. Nosso objetivo é manter a evidência longe das mãos de agressores. A única situação que um conflito direto pode ser lucrativo é contra criminosos violentos não estatais.
 
 ---
 
-Como inspiração adicional, essas zonas podem servir não só como locais de atividade social, mas também para a proteção de bens e comércios. Outro exemplo para seu uso são feitorias onde negócios de um-para-um que devem ser conduzidos pessoalmente ocorrem, ou mercados autônomos temporários que abrem suas atividades para a nossa sub-sociedade. Além disso, esses lugares podem ser usados como *Agadir* - instalações tradicionais para guardar itens de valor de forma segura.
+Para nossos propósitos, uma zona temporária autônoma dessas pode ir de clubes de negócios de natureza semi-permanente até feiras de rua que só duram algumas horas. Os requisitos de segurança para diferentes tipos de zona podem variar significativamente, de acordo com os riscos que enfrentam. Para a maioria das operações um restaurante bem administrado com uma sala nos fundos e pessoal 24 horas podem ser suficientes. De qualquer forma deve-se prestar atenção aos princípios táticos mencionados acima.
+
+O propósito principal de uma zona autônoma temporária em nossa estratégia continua sendo a de **"manter a evidência longe das mãos de agressores, e de ter um local seguro para nossa cultura e negócios"**.
 
 ---
 
-Métodos adicionais de operação nesses locais podem ser explorados, mas ele são puramente táticos e específicos para o uso em questão. Logo, os deixamos como um exercício ao leitor e a outras publicações.
+Como inspiração adicional, essas zonas podem servir não só como locais de atividade social, mas também para a proteção de bens e comércios. Outro exemplo para seu uso são feitorias onde ocorrem negócios de um-para-um que devem ser conduzidos pessoalmente, ou mercados autônomos temporários que abrem suas atividades para a nossa sub-sociedade. Além disso, esses lugares podem ser usados como *Agadir* - instalações tradicionais para guardar itens de valor de forma segura.
+
+---
+
+Métodos adicionais de operação nesses locais podem ser explorados, mas eles são puramente táticos e específicos para o uso em questão. Logo, os deixamos como um exercício ao leitor e para outras publicações.
 
 ## Além da Fisicalidade - Em Direção à Informação
 
