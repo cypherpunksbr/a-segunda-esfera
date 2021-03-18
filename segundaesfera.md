@@ -115,7 +115,7 @@ A teoria de classes libertária descreve duas classes de pessoas numa sociedade:
 
 O que é pouco observado é o tamanho do segundo grupo. Na maioria dos países em desenvolvimento, os gastadores de impostos compõem muito mais do que um terço dos empregados, de burocratas a indústrias vivendo de dinheiro público ou regulações. Em países desenvolvidos, e estagnados, gastadores de impostos se aproximam ou passam de 50%. (A enorme emissão de dinheiro fiduciário permitiu que governos mantivessem esse jogo insustentável vivo... por enquanto.) Milhões de pessoas lucram com esse arranjo e vão lutar para mantê-lo até o fim.
 
-Se combinarmos apenas essas duas motivações da busca por intervenção governamental, registribuição de propriedade e terceirização de decisões, facilmente uma maioria se beneficiaria da existencia de uma instituição assim.
+Se combinarmos apenas essas duas motivações da busca por intervenção governamental, redistribuição de propriedade e terceirização de decisões, facilmente uma maioria se beneficiaria da existência de uma instituição assim.
 
 ---
 
@@ -128,12 +128,12 @@ Isso é compreensível.
 
 As questões reflexivas que são imediatamente feitas são como estas: Quem vai cuidar dos doentes, dos idosos, das crianças, do meio ambiente? Quem vai construir as estradas, manter a segurança, licenciar os médicos e garantir que os trens serão pontuais?
 
-Estas questões são por várias vezes dispensadas com uma correta, porém superficial, resposta que é "o mercado." No entanto, essa resposta não é suficiente. O "mercado" não simplesmente cuida de qualquer coisa - este é apenas um sistema de interação e troca.
+Estas questões são por várias vezes dispensadas com uma correta, porém superficial, resposta que é "o mercado". No entanto, essa resposta não é suficiente. O "mercado" não simplesmente cuida de qualquer coisa - este é apenas um sistema de interação e troca.
 Pessoas encontram soluções para problemas humanos; empreendedores investem tempo e esforço para encontrar soluções que outros estarão dispostos a trocar coisas, e, se estiverem corretos, então lucrar.
 
-Sem novos fornecimentos desses serviços (que são geralmente proibidos usando violência nos regimes atuais) a percepção de risco não pode ser suficientemente sanada - certamente não para alguém que está agitadamente fazendo a pergunta, para ela, a possibilidade assustadora de um novo arranjo humano será rapidamente dispensada.
+Sem novos fornecimentos desses serviços (que são geralmente proibidos usando violência nos regimes atuais) a percepção de risco não pode ser suficientemente sanada - certamente não para alguém que está agitadamente fazendo a pergunta. Para ela, a possibilidade assustadora de um novo arranjo humano será rapidamente dispensada.
 
-A terceira motivação contra a mudança para uma sociedade voluntaria é a percepção de custo da mudança em si. Além de se adaptar para um novo estilo de vida, qualquer mudança encontrará resistencia e risco de falha, variando desde a perda de tempo e dinheiro, até a perda de vidas ou a própria liberdade. Muitas poucas pessoas estão dispostas a assumir esses riscos, e muitas seriam necessárias para se alcançar qualquer mudança significativa na sociedade toda.
+A terceira motivação contra a mudança para uma sociedade voluntária é a percepção de custo da mudança em si. Além de se adaptar para um novo estilo de vida, qualquer mudança encontrará resistência e risco de falha, variando desde a perda de tempo e dinheiro, até a perda de vidas ou a própria liberdade. Muitas poucas pessoas estão dispostas a assumir esses riscos, e muitas seriam necessárias para se alcançar qualquer mudança significativa na sociedade toda.
 
 Afinal, a liberdade é cara.
 
@@ -143,11 +143,11 @@ A conclusão razoável então, é parar de esperar por um número grande de apoi
 
 Porém, enquanto nós paramos de esperar que eventos enormes tragam a liberdade para nós, não perdemos a esperança pela liberdade - nós apenas encaramos o fato de que nós teremos que construí-la tijolo por tijolo, por nós mesmos, sem esperar por apoio ou permissão.
 
-Felizmente, esses métodos permitem moldar uma sociedade voluntária para aqueles menos dispostos a assumir riscos, de forma que um conceito anteriormente virtual possa ser demonstrado na vida real - aqui e agora, para ver sentir, sem ter que aguardar.
+Felizmente, esses métodos permitem moldar uma sociedade voluntária para aqueles menos dispostos a assumir riscos, de forma que um conceito anteriormente virtual possa ser demonstrado na vida real - aqui e agora, para ver e sentir, sem ter que aguardar.
 
 Isso não requer várias pessoas que pensem parecido.
 
-A verdade é que aguardar pelo consentimento nos impede de agir. E agir permite que testemos e modifiquemos nossas teorias no mundo real, o qual é o único meio para que elas alcançem formas úteis.
+A verdade é que aguardar pelo consentimento nos impede de agir. E agir permite que testemos e modifiquemos nossas teorias no mundo real, o qual é o único meio para que elas alcancem formas úteis.
 
 ---
 
@@ -161,31 +161,31 @@ Isso inclui até mesmo o indivíduo sendo excluído, usado de sacrifício, pelo 
 
 É de extrema importância que se enfatize dois aspectos importantes desse conceito.
 
-Primeiro, qualquer participação no coletivo não depende da decisão expressa do membro. Ou esse é forçado a fazer parte, or no mínimo, é forçado a continuar fazendo parte após se juntar ao grupo.
+Primeiro, qualquer participação no coletivo não depende da decisão expressa do membro. Ou esse é forçado a fazer parte, ou no mínimo, é forçado a continuar fazendo parte após se juntar ao grupo.
 
-Segundo, os aspectos identitários de um coletivo são irrelevantes em quase toda situação significativa or simplesmente superficial, além de seu significado.
+Segundo, os aspectos identitários de um coletivo são irrelevantes em quase toda situação significativa ou simplesmente superficial, além de seu significado.
 
 Nós observamos isso em tantas formas que isso mal precisa ser explicado. O que às vezes passa despercebido, no entanto, é a possibilidade de ação coletiva **com consentimento.**
 
 ---
 
-Voluntaristas, e pessoas que pensam parecido, tem por muitas vezes levado longe demais a idéia de qualquer agrupamento social, especialmente aqueles com capacidade de estabelecer identidade ou cultura.
+Voluntaristas, e pessoas que pensam parecido, tem por muitas vezes levado longe demais a ideia de qualquer agrupamento social, especialmente aqueles com capacidade de estabelecer identidade ou cultura.
 
-Muitas vezes foi negligenciado que humanos buscam termos e grupos que os provêem com o sentimento de "pertencer a algo" assim como o de "ser alguém" - não por algum meio mágico do grupo em si mas porque o grupo é composto de humanos que já "pertencem" ou "são."
+Muitas vezes foi negligenciado que humanos buscam termos e grupos que os provêem com o sentimento de "pertencer a algo" assim como o de "ser alguém" - não por algum meio mágico do grupo em si mas porque o grupo é composto de humanos que já "pertencem" ou "são".
 
-Relações de grupo provêem a base para formar uma cultura de simbolos comuns, significados, ética e relações. Estes são úteis, talvez até necessários, para a interação humana e a vida.
+Relações de grupo provêem a base para formar uma cultura de símbolos comuns, significados, ética e relações. Estes são úteis, talvez até necessários, para a interação humana e a vida.
 
-Além disso, esses grupos podem formar sociedades ainda maiores que podem prover instituições, refletir relações e simplificar intendependências e alianças. O que leva a um aumento da estabilidade e eficiência de interação, comércio, comunicação, assim como funções que estabeleçam identidade de forma positiva e relações mais coerentes com pessoas fora dessa sociedade.
+Além disso, esses grupos podem formar sociedades ainda maiores que podem prover instituições, refletir relações e simplificar interdependências e alianças. O que leva a um aumento da estabilidade e eficiência de interação, comércio, comunicação, assim como funções que estabeleçam identidade de forma positiva e relações mais coerentes com pessoas fora dessa sociedade.
 
 ---
 
-Deve ser enfatizado no entanto, que essas funções positivas da sociedade somente podem ser alcançadas em grupos de associação voluntária (consentida invididualmente) com condições faceis e claras de saída.
+Deve ser enfatizado, no entanto, que essas funções positivas da sociedade somente podem ser alcançadas em grupos de associação voluntária (consentida individualmente) com condições fáceis e claras de saída.
 
 ---
 
 As funções úteis de tais grupos de associação voluntária sustentam uma cultura de liberdade, e a formação de uma "sociedade" de pessoas livres aumenta o atrativo do anarco-capitalismo ao reduzir sua imagem de "frieza", provendo uma narrativa comum e estabelecendo a base para lealdade e alianças voluntárias.
 
-Esses aspectos positivos abrem novas opções para resolver os problemas que enfrentamos - fazer cumprir de acordos, facilitação de relações de confiança, reputação, ajuda mutua, entre outras - ao aprender com os métodos encontrados em muitas socidades anarquicas "primitivas."
+Esses aspectos positivos abrem novas opções para resolver os problemas que enfrentamos - execução de acordos, facilitação de relações de confiança, reputação, ajuda mútua, entre outras - ao aprender com os métodos encontrados em muitas sociedades anárquicas "primitivas."
 
 ## Conclusão
 
