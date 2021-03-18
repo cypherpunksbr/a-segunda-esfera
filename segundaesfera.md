@@ -1025,7 +1025,7 @@ Não é nosso trabalho criar essa cultura, empacota-la e entrega-la na sua porta
 
 O desenvolvimento de tribos da mente, a Segunda Esfera e a descentralização crescente da sociedade são inevitáveis, caso a humanidade deva progredir e até sobreviver.
 
-Podemos ver isso em multiplas de áreas, especialmente na globalização do comércio, no fracasso da grande mídia, na comunicação digital individual e na queda do nacionalismo. Hoje as pessoas se sentem mais próximas das outras que vivem do outro lado do globo e seguem idéias e culturas muito mais parecidas do que de seus vizinhos locais.
+Podemos ver isso em multiplas áreas, especialmente na globalização do comércio, no fracasso da grande mídia, na comunicação digital individual e na queda do nacionalismo. Hoje as pessoas se sentem mais próximas das outras que vivem do outro lado do globo e seguem idéias e culturas muito mais parecidas do que de seus vizinhos locais.
 
 ---
 
