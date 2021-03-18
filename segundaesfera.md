@@ -191,31 +191,31 @@ Esses aspectos positivos abrem novas opções para resolver os problemas que enf
 
 A estratégia para a implementação da liberdade deve ser construída sobre três idéias:
 
-1. É necessário que se alcance a liberdade individual em todos os aspectos - economica, pessoal, civil - mesmo apenas com apoio de um pequeno conjunto da população.
+1. É necessário que se alcance a liberdade individual em todos os aspectos - econômico, pessoal, civil - mesmo apenas com apoio de um pequeno conjunto da população.
 Liberdade deve ser tratada como uma posição minoritária que é ativamente oposta por alguns e passivamente ignorada pela maioria. (Se essa aumentar, não teremos problemas de adaptação.)
 
-2. Todas as noções de uma sociedade homogênica, alteração de opinião vigente e integridade universal da população devem ser abandonadas.
+2. Todas as noções de uma sociedade homogênea, alteração de opinião vigente e integridade universal da população devem ser abandonadas.
 
 3. Devemos formar uma cultura e sociedade de liberdade, ou no mínimo dar os primeiros passos em direção desse objetivo para sustentar tentativas de alcançar uma secessão cultural da sociedade vigente que nos permita formar e proteger instituições de interação social e relações.
 
 # Introdução
 
-É até mais desafiador escrever um texto sobre estratégia que seja tanto prático quanto revigorante. Nosso propósito é mais inspirar o pensamento, e nem tanto criar um projeto final. Este pequeno livro tem um objetivo: te preparar para ações razoáveis e efetivas. Se você ler mas **não agir** (não interessa o quanto você fale ou escreva,) este livro falhou completamente.
+É até mais desafiador escrever um texto sobre estratégia que seja tanto prático quanto revigorante. Nosso propósito é mais o de inspirar o pensamento, e nem tanto criar um projeto final. Este pequeno livro tem um objetivo: Te preparar para ações razoáveis e efetivas. Se você ler mas **não agir** (não interessa o quanto você fale ou escreva), este livro falhou completamente.
 
 ---
 
 Muitas tecnologias e métodos descritos nesse texto já existem e foram testados na vida real; outros aguardam implementação.
 
 Nós fomos fortemente inspirados por estruturas, métodos e tecnologias encontrados em outros grupos que enfrentam os mesmos desafios.
-Isso inclui grupos de crime organizado como as Triads, Máfia e Yakuza. Nosso emprestimo deles não deve ser (obviamente) compreendido como apoio.
+Isso inclui grupos de crime organizado como as Triads, Máfia e Yakuza. Nosso empréstimo deles não deve ser (obviamente) compreendido como apoio.
 
-Além disso, nós também pegamos emprestado de várias idéias sobre liberdade que vieram antes de nós, mais notavelmente *Crypto-Anarchy* por T. C. May, *T.A.Z.* por Hakim Bay assim como *Counter-Economics* por S. E. Konkin III.
+Além disso, nós também pegamos emprestadas, várias idéias sobre liberdade que vieram antes de nós, mais notavelmente *Crypto-Anarchy* por T. C. May, *T.A.Z.* por Hakim Bay assim como *Counter-Economics* por S. E. Konkin III.
 
 ---
 
-Esta é uma estratégia para assumidores de riscos, empreendedores e aventureiros. Ambos riscos e as esperadas recompensas são grandes.
+Esta é uma estratégia para tomadores de riscos, empreendedores e aventureiros. Ambos riscos e as esperadas recompensas são grandes.
 
-Em termos simples: Não é para criancinhas; mas para adultos. Encarar a realidade é um requisito. A mudança é criada pelas pessoas com coragem, não pelos tímidos que normalmente seguem com clamor pelo crédito após todas as batalhas foram travadas.
+Em termos simples: Não é para criancinhas; mas para adultos. Encarar a realidade é um requisito. A mudança é criada pelas pessoas com coragem, não pelos tímidos que normalmente seguem com clamor pelo crédito após todas as batalhas terem sido travadas.
 
 Mais uma coisa:
 
@@ -223,7 +223,7 @@ As pessoas de coragem quase sempre se divertem mais. Aproveite!
 
 # Primeiros Passos a Uma Estratégia
 
-O primeiro passo em formular uma estratégia é alcançar clareza sobre os objetivos, formas de engajamento, obstáculos e recursos a sua disposição. Estes quatro componentes são interdependentes e alguns deles estão sujeitos a constante mudança (particularmente obstáculos e recursos).
+O primeiro passo em formular uma estratégia é alcançar clareza sobre os objetivos, formas de engajamento, obstáculos e recursos à sua disposição. Estes quatro componentes são interdependentes e alguns deles estão sujeitos a constante mudança (particularmente obstáculos e recursos).
 
 ---
 
@@ -237,9 +237,9 @@ Ela é exclusiva porque nós preferimos viver como parte de uma sociedade volunt
 
 ---
 
-*Formas de engajamento* são as regras abstratas que governam nossas ações de forma a alcançar nossos objetivos. Quais ações são permissívas e quais devem ser evitadas? Já que nossa luta é no campo da ética nossos meios devem estar em unisono com nossos objetivos, no caso se abster de toda interação não voluntária.
+*Formas de engajamento* são as regras abstratas que governam nossas ações de forma a alcançar nossos objetivos. Quais ações são permissivas e quais devem ser evitadas? Já que nossa luta é no campo da ética, nossos meios devem estar em uníssono com nossos objetivos, no caso se abster de toda interação não voluntária.
 
-Isso significa que os recursos que utilizemos sejam apenas os de nossa própria propriedade, que evitemos fraude, limitemos o impacto nas partes não envolvidas e que refreemo-nos de toda violência que não seja autodefesa.
+Isso significa que os recursos que utilizemos sejam apenas os de nossa própria propriedade, que evitemos fraude, limitemos o impacto nas partes não envolvidas e que nos refreemos de toda violência que não seja autodefesa.
 
 Já que a alegação de autodefesa é por muitas vezes abusada, há outra regra que deve ser incluída como sugestão: Evitar fontes de conflito onde nós possamos ser falsamente acusados. E também evitar pontos de conflito onde nossos oponentes estejam propícios a atacar, exigindo violência da nossa parte.
 
@@ -247,17 +247,17 @@ Já que a alegação de autodefesa é por muitas vezes abusada, há outra regra 
 
 Antes que olhemos para os obstáculos que vamos enfrentar, algumas observações aos nossos recursos serão úteis:
 
-Das nossas regras de engajamento nós estamos limitados a nossos próprios corpos, propriedade e tempo ao alcançar nossos objetivos. Isso nos coloca numa posição menos afortunada do que nossos oponentes, que podem comandar o que eles não são donos, que é exatamente o que somos contra. Diluir nossas regras de engajamento nessa área iria então resultar no enfraquecimento de nossos objetivos ou até mesmo em sua perda completa. Esse foi o caso de várias tentativas históricas de criar liberdade as quais levaram à substituição de governantes, mas não do sistema de governança, ou que usaram terrorismo para estabelecer uma nova ordem.
+Das nossas regras de engajamento, nós estamos limitados a nossos próprios corpos, propriedade e tempo ao alcançar nossos objetivos. Isso nos coloca numa posição menos afortunada do que nossos oponentes, que podem comandar o que eles não são donos, que é exatamente o que somos contra. Diluir nossas regras de engajamento nessa área iria então resultar no enfraquecimento de nossos objetivos ou até mesmo em sua perda completa. Esse foi o caso de várias tentativas históricas de criar liberdade as quais levaram à substituição de governantes, mas não do sistema de governança, ou que usaram terrorismo para estabelecer uma nova ordem.
 
 Porém, usar nossos próprios recursos também nos permite ser mais flexíveis em suas aplicações, já que não precisamos do processo de comando e obediência para distribuí-los. Isso nos livra da complexidade e nos permite fazer uma implementação ágil das táticas.
 
 Então, devemos esperar ser mais adaptáveis do que nossos oponentes, desde que não apresentemos novos esquemas de distribuição para recursos e ações.
 
-Nós podemos e devemos focar em formar um ambiente de empreendedorismo para táticas, e deixar que elas refinem umas as outras no mercado.
+Nós podemos e devemos focar em formar um ambiente de empreendedorismo para táticas, e deixar que elas refinem umas às outras no mercado.
 
 Porém, para um mercado funcionar, nós devemos estar preparados para recompensar empreendedores por seus produtos e serviços superiores, não apenas através de respeito, mas também com considerações materiais tangíveis (dinheiro, etc.)
 
-Ao contrário de nossos oponentes, nossa estratégia se utiliza do papeis (já testados pelo tempo) dos empreendedores, consumidores e investidores. Isso é fundamental porque cria uma situação em que as pessoas que não são capazes de contribuir por prover serviços ou produtos são capazes de contribuir por investir tempo ou dinheiro em produtos que vão ajudar nos todos a alcançar nossos objetivos - e talvez até lucrar.
+Ao contrário de nossos oponentes, nossa estratégia se utiliza dos papéis (já testados pelo tempo) dos empreendedores, consumidores e investidores. Isso é fundamental porque cria uma situação em que as pessoas que não são capazes de contribuir por prover serviços ou produtos, sejam capazes de contribuir por investir tempo ou dinheiro em produtos que vão ajudar nós todos a alcançar nossos objetivos - e talvez até lucrar.
 
 ---
 
@@ -265,9 +265,9 @@ Quais obstáculos nós enfrentamos? Essa é uma área de muita confusão e disco
 
 ## Obstáculos
 
-Nós já concluímos que nossos objetivos são opostos pela maioria da população assim como pela classe classe dominante.
+Nós já concluímos que nossos objetivos são opostos pela maioria da população assim como pela classe dominante.
 
-É, no entanto, necessário analizar os métodos específicos nos quais nossos objetivos são opostos e quais meios são utilizados para nos impedir de alcança-los.
+É, no entanto, necessário analisar os métodos específicos nos quais nossos objetivos são opostos e quais meios são utilizados para nos impedir de alcançá-los.
 
 ---
 
