@@ -751,7 +751,7 @@ Estar preparado, e agressores sabendo que você está, elimina a maior parte do 
 
 ## As Bênçãos da Tecnologia
 
-Muitas das tarefas que nos confrontam parecem ser impossíveis de resolver no primeiro momento. E apenas algumas decadas atrás isso seria uma avaliação correta da situação. Por nossa sorte, os avanços da tecnologia dos últimos trinta anos nos abriram novas oportunidades.
+Muitas das tarefas que nos confrontam parecem ser impossíveis de resolver no primeiro momento. E apenas algumas décadas atrás isso seria uma avaliação correta da situação. Por nossa sorte, os avanços da tecnologia dos últimos trinta anos nos abriram novas oportunidades.
 
 Duas áreas nas quais a tecnologia pode nos ajudar serão exploradas a seguir.
 
@@ -773,19 +773,19 @@ Sistemas de **dark-net** nos dão a vantagem que precisamos para operar nossos p
 
 **Compartilhamento de segredos e divisão de segredos** nos dão oportunidades de distribuir decisões e segredos para várias partes que podem apenas agir quando um limiar de concordância é atingido. Isso pode ser usado para criar ambos sistemas de garantia seguros e pseudônimos fortes que podem carregar uma reputação de longo prazo.
 
-**Consentimento distribuido**, é a abilidade de disparar uma ação apenas se partes, muitas vezes anônimas, remotas e predefinidas concordem com a ação. Isso torna operações de coerção, chantagem e infiltração contra nós muito mais difíceis, enquanto dá às partes envolvidas uma negabilidade plausível.
+**Consentimento distribuído**, é a habilidade de disparar uma ação apenas se partes, muitas vezes anônimas, remotas e predefinidas concordem com a ação. Isso torna operações de coerção, chantagem e infiltração contra nós muito mais difíceis, enquanto dá às partes envolvidas uma negabilidade plausível.
 
-**Geocaching** nos oferece algumas soluções para trocas físicas nas quais a parte vendedora está em risco. Colocar objetos em um local escondido e comunicar as coordenadas para o comprador mais tarde permite que bens passem de mãos sem que ambas as partes tenham que se encontrar.
+**Geocaching** nos oferece algumas soluções para trocas físicas nas quais a parte vendedora está em risco. Colocar objetos em um local escondido e comunicar as coordenadas para o comprador mais tarde, permite que bens passem de mãos sem que ambas as partes tenham que se encontrar.
 
 ---
 
-No entanto, essas tecnologias vem com uma desvantagem quando nós temos que garantir contratos e desincentivar fraude em nossos grupos. Nossa linha de pensamento em criar evidências para mediação e casos de arbitragem assim como a garantia de contratos tem que mudar.
+No entanto, essas tecnologias vem com uma desvantagem quando nós temos que garantir contratos e desincentivar fraude em nossos grupos. Nossa linha de pensamento em criar evidências para mediação e casos de arbitragem, assim como a garantia de contratos, tem que mudar.
 
 **Garantias vinculadas** são esquemas onde a pena máxima que pode ocorrer em uma troca fraudulenta precisa ser garantida pela parte de alta reputação e alcance. Isso nos permite garantir contratos mesmo se uma ou mais partes envolvidas desaparecer na neblina do anonimato após cometer seus crimes, tornando a fraude antieconômica.
 
-**Selos de segurança únicos inviolaveis** que são difíceis de falsificar e são destruídos ao violar combinados com uma gravação de vídeo com assinatura temporal e vários esquemas de pergunta de segurança nos permitem criar evidências bem seguras no caso de precisarmos provar que o bem alcançou a qualidade e quantidade do que foi combinado. Junto a garantias vinculadas e entrega em geocache, esse é um dos esquemas de troca de bens anônima sem botar o vendedor em risco de ser capturado ou o comprador em risco de fraude.
+**Selos de segurança únicos invioláveis** que são difíceis de falsificar e são destruídos ao violar combinados com uma gravação de vídeo com assinatura temporal e vários esquemas de pergunta de segurança nos permitem criar evidências bem seguras no caso de precisarmos provar que o bem alcançou a qualidade e quantidade do que foi combinado. Junto a garantias vinculadas e entrega em geocache, esse é um dos esquemas de troca de bens anônima sem botar o vendedor em risco de ser capturado ou o comprador em risco de fraude.
 
-Como regra geral nós precisamos encontrar meios de criar evidência necessária para potenciais processos de resolução de conflito sem entregar nossas identidades a terceiros não convidados. Vários desses métodos já foram encontrados, mas não é o propósito desse livro entrar em muito detalhe além de demonstrar a viabilidade dessa estratégia e inspirar pessoas a encontrarem suas próprias soluções no campo tático.
+Como regra geral nós precisamos encontrar meios de criar evidência necessária para potenciais processos de resolução de conflito sem entregar nossas identidades a terceiros não convidados. Vários desses métodos já foram encontrados, mas não é o propósito deste livro entrar em muito detalhe além de demonstrar a viabilidade dessa estratégia e inspirar pessoas a encontrarem suas próprias soluções no campo tático.
 
 ## Serviços Compartilhados
 
