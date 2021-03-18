@@ -279,7 +279,7 @@ Já que nós também vivemos em um mundo escasso e não podemos fazer cada coisa
 
 ---
 
-Essas caracteristicas da vida humana constituem a base da maioria das coisas que fazemos, mas também provêem os meios para que nossos oponentes nos mantenham acorrentados.
+Essas características da vida humana constituem a base da maioria das coisas que fazemos, mas também provêem os meios para que nossos oponentes nos mantenham acorrentados.
 
 Através da história, aqueles que se opõem à liberdade desenvolveram e cultivaram a complexa e refinada "ciência" de como manter populações sob controle. Não estamos nos referindo a um grupo secreto de planejadores sociais, mas a um conjunto de técnicas que são compartilhadas não somente entre os governantes mas entre as partes da sociedade que lucram na coerção e no conforto que essa os traz.
 
@@ -287,7 +287,7 @@ Entender essa "ciência" é algo benéfico para enxergar como vários dos nossos
 
 ---
 
-É necessário entender que o Estado e os sistemas do mundo **não** são espaciais. Apesar do Estado reeinvidicar controle geográfico, o Estado em si não ocupa nada, já que não é uma entidade física. É um conceito **social** de controle. O único jeito que Estado pode interagir com o espacial é através de seus agentes e proponentes, assim como qualquer um condicionado a representá-lo ou invocá-lo.
+É necessário entender que o Estado e os sistemas do mundo **não** são espaciais. Apesar do Estado reivindicar controle geográfico, o Estado em si não ocupa nada, já que não é uma entidade física. É um conceito **social** de controle. O único jeito que o Estado pode interagir com o espacial é através de seus agentes e proponentes, assim como qualquer um condicionado a representá-lo ou invocá-lo.
 
 São os humanos individuais que devem ser intrusivos ao espaço de outro indivíduo para exercer qualquer tipo de força, seja direta ou indireta.
 
@@ -297,19 +297,19 @@ Quando não utilizando da força, a única outra opção para o Estado agir no e
 
 Normas culturais da sociedade vigente e a maior parte de suas subculturas recompensam comportamento em prol do Estado enquanto punem comportamento não estatal. Enquanto isso ainda não é verdade para todas as partes do código cultural, isso está aumentando, muitas vezes sem percebermos.
 
-Há númerosos exemplos disso. O método sugerido com maior freqüência para a resolução de problemas é chamar a polícia, é sempre obedecer a autoridade do Estado, é usar métodos "convenientes" de pagamento (cartão de crédito, etc.), é fazer todo pagamento em curso legal (moeda nacional), conseguir um "bom emprego", pressionar seus "representantes", "trabalhar dentro da legalidade do sistema", pagar por sua "fatia justa" de impostos, aderir a atual definição de "politicamente correto" ou simplesmente "não dar problema." Todos esses códigos de conduta culminam em um objetivo: Integrar-se em uma sociedade que é liderada, organizada e permitida pelo Estado.
-Visões alternativas são rápidamente rotuladas como "perda de tempo", "anti-práticas", "irrealistas", "utópicas", "excêntricas" ou até mesmo "traíção."
+Há numerosos exemplos disso. O método sugerido com maior freqüência para a resolução de problemas é chamar a polícia, é sempre obedecer a autoridade do Estado, é usar métodos "convenientes" de pagamento (cartão de crédito, etc.), é fazer todo pagamento em curso legal (moeda nacional), conseguir um "bom emprego", pressionar seus "representantes", "trabalhar dentro da legalidade do sistema", pagar por sua "fatia justa" de impostos, aderir a atual definição de "politicamente correto" ou simplesmente "não dar problema". Todos esses códigos de conduta culminam em um objetivo: Integrar-se em uma sociedade que é liderada, organizada e permitida pelo Estado.
+Visões alternativas são rapidamente rotuladas como "perda de tempo", "anti-práticas", "irrealistas", "utópicas", "excêntricas" ou até mesmo "traição".
 
-Entrelaçados a esses códigos estão valores que a maioria das pessoas está acostumada a usar ao julgar seus vizinhos. Enquanto muitos soldados hoje participam das guerras que deveriam, de forma realista, serem chamadas de injustas e, portanto, um crime, eles não confrontados com disgosto ao escolherem essa carreira. Policiais que garamtem leis anti-éticas (muitas vezes de forma anti-ética) não são excluídos de nossa fraternidade, mas ao invés disso chamados de "nossos modelos." Cobradores de impostos que objetivamente conduzem assalto a mão armada não são explanados mas identificados como "fazendo o seu trabalho." No final todo mundo está apenas seguindo ordens.
+Entrelaçados a esses códigos estão valores que a maioria das pessoas está acostumada a usar ao julgar seus vizinhos. Enquanto muitos soldados hoje participam das guerras que deveriam, de forma realista, serem chamadas de injustas e, portanto, um crime, eles não são confrontados com desgosto ao escolherem essa carreira. Policiais que garantem leis antiéticas (muitas vezes de forma antiética) não são excluídos de nossa fraternidade, mas ao invés disso chamados de "nossos modelos". Cobradores de impostos que objetivamente conduzem assalto a mão armada não são explanados mas identificados como "fazendo o seu trabalho". No final, todo mundo está apenas seguindo ordens.
 
-Além disso, uma vasta variedade de símbolos são usados para identificar pessoas como sendo "respeitáveis." Alguns desses são: estilos de roupa, símbolos de status, licenças, cartões de membro de sociedades, uso de linguagem e risos em momentos propícios.
+Além disso, uma vasta variedade de símbolos são usados para identificar pessoas como sendo "respeitáveis". Alguns desses são: estilos de roupa, símbolos de status, licenças, cartões de membro de sociedades, uso de linguagem e risos em momentos propícios.
 
 Juntos, esses códigos, valores e símbolos formam expectativas e identidades societárias - a função de uma cultura - e qualquer desvio fundamental destas é respondido com rejeição ou até hostilidade explícita.
 
 É muito importante entender que esses códigos, valores e símbolos são fortemente interligados e formam um corpo de cultura integrado que torna muito difícil se libertar desse esquema de forma bem sucedida.
 Se nós mudarmos apenas partes disso, é fácil sermos arrastados de volta para "o antigo costume" pelas partes que ainda estão amarradas à cultura majoritária. (Idealmente não necessariamente, mas de forma prática, normalmente está.)
 
-Separar-se da cultura vigente e de suas várias subculturas deixa o dissidente como um excentrico tolerado no melhor dos casos, ou um problemático indesejado no pior das hipóteses. Mas isso também deixa o indivíduo na posição de não ter integração social; que é necessária pela maioria de nós simplesmente por conta da nossa saúde mental.
+Separar-se da cultura vigente e de suas várias subculturas deixa o dissidente como um excêntrico tolerado no melhor dos casos, ou um problemático indesejado na pior das hipóteses. Mas isso também deixa o indivíduo na posição de não ter integração social; que é necessária pela maioria de nós simplesmente por conta da nossa saúde mental.
 
 ---
 
@@ -335,17 +335,17 @@ Esses sistemas são necessários para uma cooperação bem sucedida entre indiv�
 
 ---
 
-É atrávez de regulação, licenciamento e dominância cultural que o acesso a essas, e provisionamento dessas, distituições e serviços é regulado, sempre com uma firme integração de vigilância e punição. Apesar de que há sempre brechas nesse controle que permitem que pessoas escapem, a principal atividade para legisladores e burocratas parece ser buscar e selar essas brechas - é criar um sistema no qual essas instituições, combinadas com sua cultura pareada, provenham um ferramental totalitário e moldem cada indivíduo sob o domínio do sistema estatal.
+É através de regulação, licenciamento e dominância cultural que o acesso a essas, e provisionamento dessas instituições e serviços é regulado, sempre com uma firme integração de vigilância e punição. Apesar de que há sempre brechas nesse controle que permitem que pessoas escapem, a principal atividade para legisladores e burocratas parece ser buscar e selar essas brechas - é criar um sistema no qual essas instituições, combinadas com sua cultura pareada, provenham um ferramental totalitário e moldem cada indivíduo sob o domínio do sistema estatal.
 
 ---
 
-Códigos culturais, valores, símbolos e sistemas e instituições de cooperação permite que o se torne uma entidade espacial, através de seus agentes, proponentes e dependentes. A cultura forma uma base para consentimento ativo enquanto o controle de acesso às instituições cria uma força implícita para manter seus súditos na linha. (Os benefícios de obedecer pesam mais que os riscos da dissidência.)
+Códigos culturais, valores, símbolos e sistemas e instituições de cooperação permitem que o Estado se torne uma entidade espacial, através de seus agentes, proponentes e dependentes. A cultura forma uma base para consentimento ativo enquanto o controle de acesso às instituições cria uma força implícita para manter seus súditos na linha. (Os benefícios de obedecer pesam mais que os riscos da dissidência.)
 
 Isso provê o Estado com **indivíduos** que projetam sua força à esfera espacial através de suas ações. Começa com a simples exclusão social de dissidentes, continua com a delação e convida agentes estatais a situações onde os mesmos são indesejados, e termina por usar a força contra os dissidentes.
 
 ---
 
-Os aspectos entrelaçados da cultura, instituições, lucros da redistribuição e a expectativa de estabilidade formam a fundação do poder dos estatos e garantem um consentimento duradouro (tanto passivo quanto ativo) para a dominância desse sistema.
+Os aspectos entrelaçados da cultura, instituições, lucros da redistribuição e a expectativa de estabilidade formam a fundação do poder dos Estados e garantem um consentimento duradouro (tanto passivo quanto ativo) para a dominância desse sistema.
 
 Nós chamamos o todo desse sistema de: **A primeira esfera.**
 
@@ -353,13 +353,13 @@ Nós chamamos o todo desse sistema de: **A primeira esfera.**
 
 Por favor, tenha em mente que estamos falando sobre o sistema de dominação, não uma implementação específica ou os partidos que o governam.
 
-Até o momento, tentativas de mudar esse sistema conseguiram (no máximo) mudar as faces donas do show, mas nunca mudaram fundamentalmente o jogo.
+Até o momento, tentativas de mudar esse sistema conseguiram (no máximo) mudar as faces donas do espetáculo, mas nunca mudaram fundamentalmente o jogo.
 
 ---
 
 A pesar de podermos chamar o apoio da população a esse sistema anti-ético, mal orientado, estúpido e até perverso, esse é, querendo ou não, uma realidade que deve ser encarada de forma clara.
 
-Nosso desafio é de uma magnetude enórme. Motivo de estratégias anteriores terem falhado em alcançar muitas mudanças duradouras.
+Nosso desafio é de uma magnitude enorme. Motivo de estratégias anteriores terem falhado em alcançar muitas mudanças duradouras.
 
 ## Conclusões
 
@@ -367,23 +367,23 @@ Nós podemos então traçar as seguintes conclusões:
 
 1. **Espacial:** Nós temos que encontrar ou **criar** território (espaço) no qual nenhum agente, proponente, ou dependente do Estado esteja presente ou possa exercer força de qualquer forma direta. Com exceção do espaço sideral (e talvez o alto mar), é improvável que qualquer território que não esteja ocupado por agentes do Estado possa ser encontrado atualmente. Não vale a pena tentar criar esse tipo de território.
 
-2. **Espacial:** Nós temos que proteger e **defender** o território da liberdade contra a vigilância estatal. Vigilância é o precursor da força, seja direta ou indireta. (Senão, a qual proposito ela serve?)
+2. **Espacial:** Nós temos que proteger e **defender** o território da liberdade contra a vigilância estatal. Vigilância é o precursor da força, seja direta ou indireta. (Senão, a qual propósito ela serve?)
 
 3. **Espacial:** Nós temos que minimizar a necessidade de pessoas livres entrarem em território que é ocupado por agentes do Estado ou vigiado por eles.
 
-4. **Insitucional:** É necessário formar sistemas de cooperação **independentes** que são formados pela ética da liberdade e que não estejam conectados às instituições de controle (se passando por instituições de cooperação).
+4. **Institucional:** É necessário formar sistemas de cooperação **independentes** que são formados pela ética da liberdade e que não estejam conectados às instituições de controle (se passando por instituições de cooperação).
 
 5. **Institucional:** Nós não podemos depender de qualquer instituição dominada pelo Estado para formar a base de nossas interações ou nossos próprios sistemas.
 
-6. **Institucional:** Qualquer interação com instituições controladas pelo Estado devem ocorrer via **intermediários** e com extrema separação, para limitar quaisquer danos que podem (e vão) ocorrer.
+6. **Institucional:** Qualquer interação com instituições controladas pelo Estado devem ocorrer via **intermediários** e com extrema separação, para limitar quaisquer danos que possam (e vão) ocorrer.
 
 7. **Cultural:** Nós precisamos criar e sustentar nossa própria cultura baseada nos **valores** definidos pela ética da liberdade.
 
-8. **Cultural:** Nossa cultura não pode ser uma simples subcultura ou contra-cultura para a cultura convencional dominada pelo Estado. Ela deve ser uma **contra-cultura** independente.
+8. **Cultural:** Nossa cultura não pode ser uma simples subcultura ou contracultura para a cultura convencional dominada pelo Estado. Ela deve ser uma **contra-cultura** independente.
 
-9. **Cultural:** Nós precisamos dos nossos próprios **símbolos** culturais para que o reconhecimento mútuo possa otimizar a comunicação e o ordenamento social, assim como suportar a separação da cultura de nossos oponentes.
+9.  **Cultural:** Nós precisamos dos nossos próprios **símbolos** culturais para que o reconhecimento mútuo possa otimizar a comunicação e o ordenamento social, assim como suportar a separação da cultura de nossos oponentes.
 
-10. **Cultural:** Os **códigos** culturais e normas da liberdade devem suportar ambas a integração e sustento de pessoas livres e a exclusão de agentes estatais.
+10. **Cultural:** Os **códigos** culturais e normas da liberdade devem suportar ambas, a integração e o sustento de pessoas livres e a exclusão de agentes estatais.
 
 ---
 
@@ -393,7 +393,7 @@ Nós podemos então traçar as seguintes conclusões:
 
 Essa tarefa pode ser justamente vista como monumental, e os riscos são altos. Porém, é definitivamente alcançável. Vários grupos alcançaram esses exatos objetivos no passado e muitas vezes foram capazes de sustentar seus sistemas por séculos. A única grande diferença entre esses empreendedores culturais de sucesso e pessoas livres é que nós estamos mais restritos em nossas regras de engajamento. De qualquer forma, até isso pode ser usado como vantagem a longo prazo.
 
-> **Anarquia é a livre associação de individuos em sociedades de sua preferência.**
+> **Anarquia é a livre associação de indivíduos em sociedades de sua preferência.**
 
 # A Segunda Esfera
 
