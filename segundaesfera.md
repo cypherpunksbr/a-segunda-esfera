@@ -5,7 +5,7 @@
 #### Cripto-Anarquia, Tradecraft, Zonas Autônomas Temporárias, e Contracultura
 
 
-Este é um livreto para pessoas em busca da liberdade e que adere a uma filosofia de liberdade pessoal, civil e econômica através da ausência do governo em suas vidas, junto à forte presença de direitos de propriedade.
+Este é um livreto para pessoas em busca da liberdade e para quem adere a uma filosofia de liberdade pessoal, civil e econômica através da ausência do governo em suas vidas, junto à forte presença de direitos de propriedade.
 Entre filosofias variadas, que mantêm essa visão, a mais notória é provavelmente a do Anarco-Capitalismo de ambas vertentes de Rothbard e Friedman.
 Os autores deste livreto aderem à vertente de Rothbard e é essa perspectiva que deverá ser considerada para extrair o máximo de valor deste texto.
 
@@ -745,7 +745,7 @@ O método comprovado pelo tempo é não desistir de sua própria preparação e 
 
 ---
 
-Não se deixe assustar pela seção anterior. Medidas ativas de defesa são comuns e frequentemente passam despercebidas pela maioria das pessoas. Seja no setor de boates, industria de acompanhantes ou seguranças - na maior parte do tempo nada acontece, e no resto acontecem apenas problemas pequenos. A vida é muito diferente do que é mostrado na TV. Na maioria dos paises menos desenvolvidos é mais comum já que o governo não se esforça pra proteger um fora-da-lei de outro, ou até proteger o público dos fora-da-lei.
+Não se deixe assustar pela seção anterior. Medidas ativas de defesa são comuns e frequentemente passam despercebidas pela maioria das pessoas. Seja no setor de boates, industria de acompanhantes ou seguranças - na maior parte do tempo nada acontece, e no resto acontecem apenas problemas pequenos. A vida é muito diferente do que é mostrado na TV. Na maioria dos países menos desenvolvidos é mais comum já que o governo não se esforça pra proteger um fora-da-lei de outro, ou até proteger o público dos fora-da-lei.
 
 Estar preparado, e agressores sabendo que você está, elimina a maior parte do risco da jogada. Isso é verdadeiro para qualquer agressor em potencial - Estado ou não. Vamos torcer para que a preparação seja o suficiente.
 
@@ -959,7 +959,7 @@ No entanto há várias coisas que contribuem para a formação de uma cultura.
 
 Uma das mais divertidas é a influência da arte, música e literatura que emana de um contexto cultural e o retro-alimenta. A imaginação de artistas se torna muitas vezes a inspiração de muitos. E vai ser muito animador ver a criatividade nessa área.
 
-Outra influência é a da necessidade. A cultura determina e otimiza as interações sociais, as quais são moldadas pela realidade que aquela sociedade se encontra. Desafios e ameaças, mas também abundancias e bençãos específicos do ambiente fluem para e através da cultura. Compare as canções de esperança do povo do deserto com as danças energéticas das tribos da selva.
+Outra influência é a da necessidade. A cultura determina e otimiza as interações sociais, as quais são moldadas pela realidade que aquela sociedade se encontra. Desafios e ameaças, mas também abundancias e bênçãos específicos do ambiente fluem para e através da cultura. Compare as canções de esperança do povo do deserto com as danças energéticas das tribos da selva.
 
 Valores éticos, morais e religiosos são outro ponto a mencionar. Enquanto muitas vezes refletem a cultura já estabelecida, eles também tem como função serem fatores de fundação da cultura. Isso é evidente em culturas que não tiveram o processo de evolução por um longo periodo de tempo mas de forma rápida e abrupta, como a maior parte das americas.
 
