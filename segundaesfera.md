@@ -5,15 +5,15 @@
 #### Cripto-Anarquia, Tradecraft, Zonas Autônomas Temporárias, e Contracultura
 
 
-Este é um livreto para pessoas em busca da liberdade e quem adere a uma filosofia de liberdade pessoal, civil e econômica através da ausência do governo em suas vidas, junto à forte presença de direitos de propriedade.
-Entre filosofias variadas, que mantém essa visão, a mais notória é provavelmente a do Anarco-Capitalismo de ambas vertentes de Rothbard e Friedman.
+Este é um livreto para pessoas em busca da liberdade e que adere a uma filosofia de liberdade pessoal, civil e econômica através da ausência do governo em suas vidas, junto à forte presença de direitos de propriedade.
+Entre filosofias variadas, que mantêm essa visão, a mais notória é provavelmente a do Anarco-Capitalismo de ambas vertentes de Rothbard e Friedman.
 Os autores deste livreto aderem à vertente de Rothbard e é essa perspectiva que deverá ser considerada para extrair o máximo de valor deste texto.
 
 Obrigado a Timothy C. May, Hakim Bey, Murray Rothbard, J. Neil Schulman e Samuel Edward Konkin III pela inspiração e idéias que expandimos.
 
 Nós também agradecemos "The Free and Unashamed" por nos pedir para escrever o que pensamos, e por nos apoiar no processo. Enquanto vocês continuarem um mistério para nós, vocês serão um bom mistério.
 
-*Sobre os autores:* 
+*Sobre os autores:*
 
 Este livro foi escrito por
 [Smuggler](mailto:Smuggler@staff.anarplex.net) e "XYZ". Nós somos as únicas pessoas responsáveis por ele. Estes são nossos pensamentos.
@@ -53,7 +53,7 @@ Conteúdo
 
 * * [Segurança e Defesa](#segurança-e-defesa)
 
-* * [As Bençãos da Tecnologia](#as-bençãos-da-tecnologia)
+* * [As Bênçãos da Tecnologia](#as-bênçãos-da-tecnologia)
 
 * * [Serviços Compartilhados](#serviços-compartilhados)
 
@@ -89,7 +89,7 @@ Enquanto essas propostas todas tem alguns aspectos interessantes, elas são por 
 
 A falha fundamental para a maioria dessas estratégias, com uma leve exceção na teoria da contra-economia, é a dependência numa mudança em massa das estruturas sociais, culturais e econômicas, e das pessoas em geral.
 
-É negligenciado com frequência por voluntaristas o fato do pensamento coletivo dominar muito de nossos processos pessoais de tomada de decisão, motivo da maioria dessas estratégias pecar pela *falácia de grandes números.* Por esse termo, queremos dizer a crença de que devemos aguardar pelo progresso até que uma grande quantidade de pessoas se reunam em suporte a nossa causa.
+É negligenciado com frequência por voluntaristas o fato do pensamento coletivo dominar muito de nossos processos pessoais de tomada de decisão, motivo da maioria dessas estratégias pecar pela *falácia de grandes números.* Por esse termo, queremos dizer a crença de que devemos aguardar pelo progresso até que uma grande quantidade de pessoas se reúnam em suporte à nossa causa.
 
 Nós discordamos, e pensamos que aguardar tem sido um erro, muitas vezes com o propósito de evitar riscos. Nós desejamos minimizar riscos, mas não ao ponto de ficarmos inertes.
 
@@ -113,7 +113,7 @@ Infelizmente é um truísmo que a maioria das pessoas apenas quer a liberdade pa
 
 A teoria de classes libertária descreve duas classes de pessoas numa sociedade: Aqueles que pagam mais impostos do que consomem serviços públicos, e aqueles que consomem mais serviços públicos do que pagam impostos. Ou seja: Pagadores de impostos e gastadores de impostos.
 
-O que é pouco observado é o tamanho do segundo grupo. Na maioria dos paises em desenvolvimento, os gastadores de impostos compõem muito mais do que um terço dos empregados, de burocratas a indústrias vivendo de dinheiro público ou regulações. Em paises desenvolvidos, e estagnados, gastadores de impostos se aproximam ou passam de 50%. (A enorme emissão de dinheiro fiduciário permitiu que governos mantivessem esse jogo insustentável vivo... por enquanto.) Milhões de pessoas lucram com esse arranjo e vão lutar para manter-lo até o fim.
+O que é pouco observado é o tamanho do segundo grupo. Na maioria dos países em desenvolvimento, os gastadores de impostos compõem muito mais do que um terço dos empregados, de burocratas a indústrias vivendo de dinheiro público ou regulações. Em países desenvolvidos, e estagnados, gastadores de impostos se aproximam ou passam de 50%. (A enorme emissão de dinheiro fiduciário permitiu que governos mantivessem esse jogo insustentável vivo... por enquanto.) Milhões de pessoas lucram com esse arranjo e vão lutar para mantê-lo até o fim.
 
 Se combinarmos apenas essas duas motivações da busca por intervenção governamental, registribuição de propriedade e terceirização de decisões, facilmente uma maioria se beneficiaria da existencia de uma instituição assim.
 
@@ -197,7 +197,7 @@ Liberdade deve ser tratada como uma posição minoritária que é ativamente opo
 2. Todas as noções de uma sociedade homogênica, alteração de opinião vigente e integridade universal da população devem ser abandonadas.
 
 3. Devemos formar uma cultura e sociedade de liberdade, ou no mínimo dar os primeiros passos em direção desse objetivo para sustentar tentativas de alcançar uma secessão cultural da sociedade vigente que nos permita formar e proteger instituições de interação social e relações.
- 
+
 # Introdução
 
 É até mais desafiador escrever um texto sobre estratégia que seja tanto prático quanto revigorante. Nosso propósito é mais inspirar o pensamento, e nem tanto criar um projeto final. Este pequeno livro tem um objetivo: te preparar para ações razoáveis e efetivas. Se você ler mas **não agir** (não interessa o quanto você fale ou escreva,) este livro falhou completamente.
@@ -217,7 +217,7 @@ Esta é uma estratégia para assumidores de riscos, empreendedores e aventureiro
 
 Em termos simples: Não é para criancinhas; mas para adultos. Encarar a realidade é um requisito. A mudança é criada pelas pessoas com coragem, não pelos tímidos que normalmente seguem com clamor pelo crédito após todas as batalhas foram travadas.
 
-Mais uma coisa: 
+Mais uma coisa:
 
 As pessoas de coragem quase sempre se divertem mais. Aproveite!
 
@@ -241,7 +241,7 @@ Ela é exclusiva porque nós preferimos viver como parte de uma sociedade volunt
 
 Isso significa que os recursos que utilizemos sejam apenas os de nossa própria propriedade, que evitemos fraude, limitemos o impacto nas partes não envolvidas e que refreemo-nos de toda violência que não seja autodefesa.
 
-Já que a alegação de autodefesa é por muitas vezes abusada, há outra regra que deve ser incluída como sugestão: Evitar fontes de conflito onde nós possamos ser falsamente acusados. E também evitar pontos de conflito onde nossos oponentes estejam propícios a atacar, exigindo violência da nossa parte. 
+Já que a alegação de autodefesa é por muitas vezes abusada, há outra regra que deve ser incluída como sugestão: Evitar fontes de conflito onde nós possamos ser falsamente acusados. E também evitar pontos de conflito onde nossos oponentes estejam propícios a atacar, exigindo violência da nossa parte.
 
 ---
 
@@ -749,7 +749,7 @@ Não se deixe assustar pela seção anterior. Medidas ativas de defesa são comu
 
 Estar preparado, e agressores sabendo que você está, elimina a maior parte do risco da jogada. Isso é verdadeiro para qualquer agressor em potencial - Estado ou não. Vamos torcer para que a preparação seja o suficiente.
 
-## As Bençãos da Tecnologia
+## As Bênçãos da Tecnologia
 
 Muitas das tarefas que nos confrontam parecem ser impossíveis de resolver no primeiro momento. E apenas algumas decadas atrás isso seria uma avaliação correta da situação. Por nossa sorte, os avanços da tecnologia dos últimos trinta anos nos abriram novas oportunidades.
 
