@@ -89,7 +89,7 @@ Enquanto essas propostas todas tem alguns aspectos interessantes, elas são por 
 
 A falha fundamental para a maioria dessas estratégias, com uma leve exceção na teoria da contra-economia, é a dependência numa mudança em massa das estruturas sociais, culturais e econômicas, e das pessoas em geral.
 
-É negligênciado com frequência por voluntaristas o fato do pensamento coletivo dominar muito de nossos processos pessoais de tomada de decisão, motivo da maioria dessas estratégias pecar pela *falácia de grandes números.* Por esse termo, queremos dizer a crença de que devemos aguardar pelo progresso até que uma grande quantidade de pessoas se reunam em suporte a nossa causa.
+É negligenciado com frequência por voluntaristas o fato do pensamento coletivo dominar muito de nossos processos pessoais de tomada de decisão, motivo da maioria dessas estratégias pecar pela *falácia de grandes números.* Por esse termo, queremos dizer a crença de que devemos aguardar pelo progresso até que uma grande quantidade de pessoas se reunam em suporte a nossa causa.
 
 Nós discordamos, e pensamos que aguardar tem sido um erro, muitas vezes com o propósito de evitar riscos. Nós desejamos minimizar riscos, mas não ao ponto de ficarmos inertes.
 
