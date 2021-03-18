@@ -647,15 +647,15 @@ Cabe a nós projetar formas de interação não baseadas no pensamento coletivis
 
 ## Especialização
 
-Uma boa aplicação de Tradecraft nos apresenta dois desafios. Se por um lado muito tradecraft pode ser contraprodutivo para a coezão social e organização. Por outro lado é difícil que todos os indivíduos dominem a arte do tradecraft em todas as situações.
+Uma boa aplicação de Tradecraft nos apresenta dois desafios. Se por um lado muito tradecraft pode ser contraprodutivo para a coesão social e organização. Por outro lado, é difícil que todos os indivíduos dominem a arte do tradecraft em todas as situações.
 
-A solução para esse desafio é a especialização. Empreendedores podem ser excelentes em prover serviços de Tradecraft para outros agentes no mercado ao criar formas de comunicação oculta, salas-de-troca opacas, transporte irrastreável ou pseudônimos segurados. Isso livra os outros agentes de ter que investir nessas habilidades e impede que a cultura da paranoia engesse tudo o que fazemos. Porém, a especialização não pode servir de desculpa para que qualquer um ignore esse assunto ou baixe a guarda para essa necessidade.
+A solução para esse desafio é a especialização. Empreendedores podem ser excelentes em prover serviços de Tradecraft para outros agentes no mercado ao criar formas de comunicação oculta, salas-de-troca opacas, transporte irrastreável ou pseudônimos assegurados. Isso livra os outros agentes de ter que investir nessas habilidades e impede que a cultura da paranoia engesse tudo o que fazemos. Porém, a especialização não pode servir de desculpa para que qualquer um ignore esse assunto ou baixe a guarda para essa necessidade.
 
 ---
 
-Outra área única para a nossa situação é a integração no cenário econômico maior. Já que tamanho de mercado e diversidade suficientes só podem ser esperados no longo prazo, nos obrigamos a interagir e integrar com outros mercados a não ser que fiquemos numa economia de subsistencia. No entanto, essa integração vem com um alto risco.
+Outra área única para a nossa situação é a integração no cenário econômico maior. Já que tamanho de mercado e diversidade suficientes só podem ser esperados no longo prazo, nos obrigamos a interagir e integrar com outros mercados a não ser que fiquemos numa economia de subsistência. No entanto, essa integração vem com um alto risco.
 
-Esses fatos abrem espaço para uma carreira que é especialmente interessante para pessoas que não encontraram uma vocação (ou que deixaram uma vocação anterior) e estão procurando por oportunidades de baixo investimento: O mercador-intermediário.
+Estes fatos abrem espaço para uma carreira que é especialmente interessante para pessoas que não encontraram uma vocação (ou que deixaram uma vocação anterior) e estão procurando por oportunidades de baixo investimento: O mercador-intermediário.
 
 Um mercador-intermediário é uma ponte conectando a Segunda Esfera à Primeira Esfera enquanto minimiza riscos. Muitas formas de união são concebíveis, de pessoas que manejam trocas entre dinheiro da Segunda Esfera e moedas oficiais até agentes de compra e troca. Nós deixamos ao leitor que invente seu próprio nicho.
 
@@ -667,27 +667,27 @@ Enquanto a maioria das pessoas na maior parte do tempo não são violentas e nã
 
 ---
 
-Aos olhos da Primeira Esfera, a Segunda Esfera é território sem lei e habitado por foras-da-lei - e isso é exatamente a visão que outros fora-da-lei terão também. Nós não podemos e nem devemos empregar a proteção e "serviços" de segurança da Primeira Esfera a não ser que abramos mão de nossa independência. Logo, se faz necessário a nós prover esses serviços nós mesmos e desenvolver uma mentalidade para contrapor essa idéia. Já que esse assunto não pode ser coberto completamente neste livro nós vamos apenas iniciar o dialogo e convidar empreendedores dessa área que dêem continuidade.
+Aos olhos da Primeira Esfera, a Segunda Esfera é território sem lei e habitado por foras-da-lei - e isso é exatamente a visão que outros fora-da-lei terão também. Nós não podemos e nem devemos empregar a proteção e "serviços" de segurança da Primeira Esfera a não ser que abramos mão de nossa independência. Logo, se faz necessário a nós, prover esses serviços nós mesmos e desenvolver uma mentalidade para contrapor essa ideia. Já que esse assunto não pode ser coberto completamente neste livro, nós vamos apenas iniciar o dialogo e convidar empreendedores dessa área que dêem continuidade.
 
 ---
 
-A segurança começa com a manutenção da paz. Enquanto isso pode soar obvio é muitas vezes esquecido. Manter a paz significa que alguém está empenhado em não começar encrenca e ficar fora de risco antes que um conflito possa começar ou escalar. Nós devemos evitar provocar outros a nos atacar pelo comportamento que demonstramos. Começa por não empregarmos violência nós mesmos a não ser que aconteça em legitima-defesa, não passando outros para trás, não quebrando acordos, não se gabando e desafiando. Tranquilidade, integridade e honestidade combinadas com confiança reduzem o risco de conflito imensamente.
+A segurança começa com a manutenção da paz. Enquanto isso pode soar óbvio é, no entanto, muitas vezes esquecido. Manter a paz significa que alguém está empenhado em não começar encrenca e ficar fora de risco antes que um conflito possa começar ou escalar. Nós devemos evitar provocar outros a nos atacar pelo comportamento que demonstramos. Começa por não empregarmos violência nós mesmos a não ser que aconteça em legítima-defesa, não passando outros para trás, não quebrando acordos, não se gabando e desafiando. Tranquilidade, integridade e honestidade combinadas com confiança reduzem o risco de conflito imensamente.
 
 ---
 
-Ser apenas passivo, no entando, não ajuda. Uma defesa de sucesso começa com preparação e ações preventivas. Isso não só inclui o preparo de instalações defensivas, mas também a escolha de local e especialmente a limitação ativa de coleta de inteligência hostil por potenciais adversários.
+Ser apenas passivo, no entanto, não ajuda. Uma defesa de sucesso começa com preparação e ações preventivas. Isso não só inclui o preparo de instalações defensivas, mas também a escolha de local e especialmente a limitação ativa de coleta de inteligência hostil por potenciais adversários.
 
-Além disso, é lucrativo empregar atividades de contra-inteligência discretas para desenvolver uma visão geral das ameaças em potencial e a habilidade de detectar ações contra nós antes que sejam executadas.
+Além disso, é lucrativo empregar atividades de contrainteligência  discretas para desenvolver uma visão geral das ameaças em potencial e a habilidade de detectar ações contra nós antes que sejam executadas.
 
 ---
 
 Escolha de locais para nossas zonas autônomas temporárias é uma tarefa crucial. Três fatores devem ser enfatizados aqui.
 
-Primeiro, nossas instalações e propriedade podem ser convidativas ou desinteressantes a agressores. Claro que uma grande placa escrito "Território fora-da-lei para capitalistas ricos" é uma má idéia, mas atributos mais sutís também podem igualmente ser problema.
+Primeiro, nossas instalações e propriedade podem ser convidativas ou desinteressantes a agressores. Claro que uma grande placa escrito "Território fora-da-lei para capitalistas ricos" é uma má idéia, mas atributos mais sutis também podem igualmente ser problema.
 
-Segundo, nossa primeira linha de defesa é controle de acesso. Todo dono de boate sabe que bons seguranças mantém os incômodos do lado de fora. Ser cauteloso sobre quem entra em nossos locais reduz drasticamente o risco de surpresas desagradáveis.
+Segundo, nossa primeira linha de defesa é o controle de acesso. Todo dono de boate sabe que bons seguranças mantêm os incômodos do lado de fora. Ser cauteloso sobre quem entra em nossos locais reduz drasticamente o risco de surpresas desagradáveis.
 
-Terceiro, caminhos para se chegar a um lugar protegido devem ser conhecidos, observados e controlados. Saber que um ataque é eminente e ser capaz de tanto atrasar o atacante como saber de quais direções ele pode atacar nos coloca em uma posição muito mais favorável do que nos entregarmos de bandeja.
+Terceiro, caminhos para se chegar a um lugar protegido devem ser conhecidos, observados e controlados. Saber que um ataque é iminente e ser capaz de tanto atrasar o atacante como saber de quais direções ele pode atacar nos coloca em uma posição muito mais favorável do que nos entregarmos de bandeja.
 
 ---
 
@@ -695,11 +695,11 @@ Para dar um exemplo quase perfeito de tal lugar vamos descrever uma boate exclus
 
 As salas da boate são no andar mais alto de um arranha-céus de 20-e-tantos andares numa área comercial. Há três formas de se chegar ao local - um elevador, duas escadas de emergência e o heliponto no terraço.
 
-O elevador e as escadas são guardadas por seguranças durante os horários comerciais da boate e equipadas com um sistema de câmeras controlado de dentro do perímetro da boate. O único jeito de entrar em uma das salas para um visitante comum é ligar para a boate enquanto aguarda pelo elevador no terreo, e se o acesso for permitido, o elevador é enviado para baixo com um ascensorista que então destrava o terraço com uma chave.
+O elevador e as escadas são guardadas por seguranças durante os horários comerciais da boate e equipadas com um sistema de câmeras controlado de dentro do perímetro da boate. O único jeito de entrar em uma das salas para um visitante comum é ligar para a boate enquanto aguarda pelo elevador no térreo, e se o acesso for permitido, o elevador é enviado para baixo com um ascensorista que então destrava o terraço com uma chave.
 
 O andar debaixo é um escritório com horários comerciais diferentes que é integrado ao sistema de alarme da boate.
 
-Em caso de invasão, os atacantes podem ser atrasados por vários minutos enquanto todo mundo dentro da boate é notificado imediatamente. Potenciais encrenqueiros podem ser repelidos de longe da zona protegida. Isso mantém o local pacífico enquanto permite que qualquer tome as devidas providências antes que os atacantes entrem no local. Idealmente, alguns procedimentos de evacuação envolvendo o heliponto podem ser implementados. Quaisquer ataques que não sejam de aniquilação total (como bombardeios) são quase impossíveis.
+Em caso de invasão, os atacantes podem ser atrasados por vários minutos enquanto todo mundo dentro da boate é notificado imediatamente. Potenciais encrenqueiros podem ser repelidos de longe da zona protegida. Isso mantém o local pacífico enquanto permite que qualquer pessoa tome as devidas providências antes que os atacantes entrem no local. Idealmente, alguns procedimentos de evacuação envolvendo o heliponto podem ser implementados. Quaisquer ataques que não sejam de aniquilação total (como bombardeios) são quase impossíveis.
 
 Isso é obviamente uma operação muito elaborada e cara, mas pode servir de inspiração para a sua própria operação.
 
@@ -707,45 +707,45 @@ Para mais informações, voltar à seção sobre [Zonas Autônomas Temporárias]
 
 ---
 
-E se um ataque realmente acontecer? Como já mencionado acima, a defesa contra um agente do estado pode apenas consistir de atrasá-lo, ou temporariamente afastá-lo. Não se pode ganhar contra um Estado enorme - apenas morrer tentando. Tudo o que se pode fazer é limitar o impacto de uma invasão ao separar as evidências das pessoas em risco (Negabilidade) e ao escapar e se recuperar mais tarde.
+E se um ataque realmente acontecer? Como já mencionado acima, a defesa contra um agente do Estado pode apenas consistir em atrasá-lo, ou temporariamente afastá-lo. Não se pode ganhar contra um Estado enorme - apenas morrer tentando. Tudo o que se pode fazer é limitar o impacto de uma invasão ao separar as evidências das pessoas em risco (Negabilidade) e ao escapar e se recuperar mais tarde.
 
-Em caso de outro fora-da-lei atacando, uma análise séria de custo-benefício deve ser feita e levar a uma defesa ativa e orientada à vitória. Antes que os pensamentos de alguém se percam aqui, vamos deixar claro que não estamos falando em entrar em guerra com contra-ataque no território adversário e tudo. É sobre limitar o estrago, não grandes vitórias e coberturas em livros de história.
+Em caso de outro fora-da-lei atacando, uma análise séria de custo-benefício deve ser feita e levada a uma defesa ativa e orientada à vitória. Antes que os pensamentos de alguém se percam aqui, vamos deixar claro que não estamos falando em entrar em guerra com contra-ataque no território adversário e tudo. É sobre limitar o estrago, não grandes vitórias como cobertas em livros de história.
 
 ---
 
 Sem ir muito fundo no assunto, vale notar que a questão de defesa coordenada é mais difícil para uma sociedade individualista do que para uma coletivista.
 
-O motivo disso é que a defesa é um jogo de números. O número, a força e a preparação das forças envolvidas assim como a habilidade de se coordenar rapidamente decidem o sucesso de qualquer tipo de impasse. De fato requer que indivíduos deleguem a liderança de forças da quais faz parte - coisa que apenas alguns de nós estão preparados ou dispostos a fazer. Porém, pensar profundamente no problema em questão pode servir de preparação para isso. Defesa efetiva é baseada em mobilidade e flexibilidade, o agrupamento, regrupamento e dispersão dinamicos de agentes assim como a centralização sob demanda e descentralização de comando para o nível necessário de hierarquia.
+O motivo disso é que a defesa é um jogo de números. O número, a força e a preparação das forças envolvidas assim como a habilidade de se coordenar rapidamente decidem o sucesso de qualquer tipo de impasse. De fato requer que indivíduos deleguem a liderança de forças da quais fazem parte - coisa que apenas alguns de nós estão preparados ou dispostos a fazer. Porém, pensar profundamente no problema em questão pode servir de preparação para isso. Defesa efetiva é baseada em mobilidade e flexibilidade, o agrupamento, regrupamento e dispersão dinâmica de agentes assim como a centralização sob demanda e descentralização de comando para o nível necessário de hierarquia.
 
 Se necessita desenvolver estratégias nessa área que sejam conhecidas por aqueles que se empenham em participar dessas ações - caso se façam necessárias - de forma que o consentimento individual em apoiar e participar podem ser garantidos e torne-se possível uma estimativa realista de recursos disponíveis.
 
 ---
 
-Por cima já devia ser obvio que essa é uma área de especialização onde empreendedores podem ganhar a vida, como já é feito hoje. Também devia ser obvio que esses serviços precisam ser contratados por nós e não ignorados.
+Do exposto acima, ja deveria ser óbvio que essa é uma área de especialização onde empreendedores podem ganhar a vida, como já é feito hoje. Também deveria ser óbvio que esses serviços precisam ser contratados por nós e não ignorados.
 
 ---
 
-Para inspirar empreendedores em potencial nessa industria que queiram ser ativos na Segunda Esfera, duas tecnologias devem se fazer presentes que prometem ser uteis para nossa situação específica:
+Para inspirar empreendedores em potencial nessa indústria que queiram ser ativos na Segunda Esfera, duas tecnologias devem se fazer presentes que prometem ser úteis para nossa situação específica:
 
 **Controle de Acesso Anônimo e Remoto**
 
-Um dia haverão batidas na porta de um de nossos locais protegidos: "Polícia, nós temos um mandato de busca." Agora é a hora que o frio provedor de segurança da Segunda Esfera prova o quanto vale: Gadosamente apertar o botão para abrir a porta e botar em perigo todos que estão dentro, ou não fazer nada além de enviar um aviso para todos e deixar que os atacantes descubram uma forma de atravessar o portão reforçado de concreto. A combinação de um sistema de câmeras e a comunicação anônima reduz imensamente as consequências para o segurança remoto e lhe dá a liberdade de agir de acordo com o interesse de seus clientes. Pra adicionar ainda mais segurança, multiplos operadores anônimos localizados em diferentes locais desconhecidos poderiam ser necessários para concordar em uma ação, assim nem infiltração, propina, chantagem ou puro medo podem comprometer a segurança da zona autônoma temporária.
+Um dia haverão batidas na porta de um de nossos locais protegidos: "Polícia, nós temos um mandato de busca." Agora é a hora que o frio provedor de segurança da Segunda Esfera prova o quanto vale: Gadosamente apertar o botão para abrir a porta e botar em perigo todos que estão dentro, ou não fazer nada além de enviar um aviso para todos e deixar que os atacantes descubram uma forma de atravessar o portão reforçado de concreto. A combinação de um sistema de câmeras e a comunicação anônima reduz imensamente as consequências para o segurança remoto e lhe dá a liberdade de agir de acordo com o interesse de seus clientes. Para adicionar ainda mais segurança, múltiplos operadores anônimos localizados em diferentes locais desconhecidos poderiam ser necessários para concordar em uma ação, assim nem infiltração, propina, chantagem ou puro medo podem comprometer a segurança da zona autônoma temporária.
 
 **Sistemas de Defesa Anônimos Remotos**
 
-Em um futuro mais distante, os sistemas de controle de acesso citados anteriormente poderiam ser extendidos para incorporar sistemas ativos de defesa quase-letais.
-As plataformas de armas robóticas atualmente disponíveis similares as aquelas usadas na fronteira entre as coréias poderiam ser integradas ao arsenal de empresas especializadas em defender zonas autônomas.
-Novamente, comunicação anônima e sensores remotos são a fundação mas dessa vez extendido à atribuição aleatória de tarefas a operadores anônimos remotos para que se torne impossível que um terceiro encontre provas de quem puxou o gatilho para afastar a gangue de rua atacante.
+Em um futuro mais distante, os sistemas de controle de acesso citados anteriormente poderiam ser estendidos para incorporar sistemas ativos de defesa quase-letais.
+As plataformas de armas robóticas atualmente disponíveis similares as aquelas usadas na fronteira entre as Coréias poderiam ser integradas ao arsenal de empresas especializadas em defender zonas autônomas.
+Novamente, comunicação anônima e sensores remotos são a fundação, mas dessa vez estendido à atribuição aleatória de tarefas a operadores anônimos remotos para que se torne impossível que um terceiro encontre provas de quem puxou o gatilho para afastar a gangue de rua atacante.
 
 ---
 
-Contrário ao que a maioria está acostumado, segurança não e nada que deva ser apenas feito por especialistas e profissionais, mesmo que a industria de segurança e defesa forneça serviços especializados. Para preservar a autonomia a longo prazo é necessário contra-balancear o poder que qualquer provedor de segurança e defesa possa acumular. Enquanto deve-se estar preparado para buscar serviços de segurança no mercado, e logo pagar por eles, também faz-se necessário ter um contra-peso para nos piores casos nos quais um provedor de segurança tenta monopolizar sua posição.
+Contrário ao que a maioria está acostumado, segurança não é nada que deva ser apenas feito por especialistas e profissionais, mesmo que a indústria de segurança e defesa forneça serviços especializados. Para preservar a autonomia a longo prazo é necessário contrabalancear o poder que qualquer provedor de segurança e defesa possa acumular. Enquanto deve-se estar preparado para buscar serviços de segurança no mercado, e logo pagar por eles, também faz-se necessário ter um contra-peso para nos piores casos nos quais um provedor de segurança tenta monopolizar sua posição.
 
-O método comprovado pelo tempo é não desistir de sua própria preparação e habilidades de defesa. Todos deviam estar preparados para resistir um provedor de segurança, dispostos a faze-lo o quanto antes for necessário, e estar eternamente vigilante para não deixar que tal ameaça potencial passe despercebida. Isso, claro, requer ação coordenada por muitos já que uma pessoa só não poderá conter tal perigo sozinho. Portanto deve ser parte da nossa cultura ficar de olho naqueles que pagamos para nos defender. Lembre-se: É crucial para uma liberdade duradoura e estável da Segunda Esfera que todos estejam dispostos, atentos e capazes de aguentar tentativas de monopolizar sua indústria por parte dos provedores de segurança.
+O método comprovado pelo tempo é não desistir de sua própria preparação e habilidades de defesa. Todos deviam estar preparados para resistir um provedor de segurança, dispostos a fazê-lo o quanto antes for necessário, e estar eternamente vigilante para não deixar que tal ameaça potencial passe despercebida. Isso, claro, requer ação coordenada por muitos já que uma pessoa só não poderá conter tal perigo sozinho. Portanto deve ser parte da nossa cultura ficar de olho naqueles que pagamos para nos defender. Lembre-se: É crucial para uma liberdade duradoura e estável da Segunda Esfera que todos estejam dispostos, atentos e capazes de aguentar tentativas de monopolizar sua indústria por parte dos provedores de segurança.
 
 ---
 
-Não se deixe assustar pela seção anterior. Medidas ativas de defesa são comuns e frequentemente passam despercebidas pela maioria das pessoas. Seja no setor de boates, industria de acompanhantes ou seguranças - na maior parte do tempo nada acontece, e no resto acontecem apenas problemas pequenos. A vida é muito diferente do que é mostrado na TV. Na maioria dos países menos desenvolvidos é mais comum já que o governo não se esforça pra proteger um fora-da-lei de outro, ou até proteger o público dos fora-da-lei.
+Não se deixe assustar pela seção anterior. Medidas ativas de defesa são comuns e frequentemente passam despercebidas pela maioria das pessoas. Seja no setor de boates, indústria de acompanhantes ou seguranças - na maior parte do tempo nada acontece, e no resto acontecem apenas pequenos problemas. A vida é muito diferente do que é mostrado na TV. Na maioria dos países menos desenvolvidos é mais comum, já que o governo não se esforça para proteger um fora-da-lei de outro, ou até proteger o público dos fora-da-lei.
 
 Estar preparado, e agressores sabendo que você está, elimina a maior parte do risco da jogada. Isso é verdadeiro para qualquer agressor em potencial - Estado ou não. Vamos torcer para que a preparação seja o suficiente.
 
