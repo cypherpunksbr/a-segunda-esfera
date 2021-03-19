@@ -185,7 +185,7 @@ Deve ser enfatizado, no entanto, que essas funções positivas da sociedade some
 
 As funções úteis de tais grupos de associação voluntária sustentam uma cultura de liberdade, e a formação de uma "sociedade" de pessoas livres aumenta o atrativo do anarco-capitalismo ao reduzir sua imagem de "frieza", provendo uma narrativa comum e estabelecendo a base para lealdade e alianças voluntárias.
 
-Esses aspectos positivos abrem novas opções para resolver os problemas que enfrentamos - execução de acordos, facilitação de relações de confiança, reputação, ajuda mútua, entre outras - ao aprender com os métodos encontrados em muitas sociedades anárquicas "primitivas."
+Esses aspectos positivos abrem novas opções para resolver os problemas que enfrentamos - execução de acordos, facilitação de relações de confiança, reputação, ajuda mútua, entre outras - ao aprender com os métodos encontrados em muitas sociedades anárquicas "primitivas".
 
 ## Conclusão
 
@@ -295,7 +295,7 @@ Quando não utilizando da força, a única outra opção para o Estado agir no e
 
 ---
 
-Normas culturais da sociedade vigente e a maior parte de suas subculturas recompensam comportamento em prol do Estado enquanto punem comportamento não estatal. Enquanto isso ainda não é verdade para todas as partes do código cultural, isso está aumentando, muitas vezes sem percebermos.
+Normas culturais da sociedade vigente e a maior parte de suas subculturas recompensam comportamento em prol do Estado enquanto punem comportamento não Estatal. Enquanto isso ainda não é verdade para todas as partes do código cultural, isso está aumentando, muitas vezes sem percebermos.
 
 Há numerosos exemplos disso. O método sugerido com maior freqüência para a resolução de problemas é chamar a polícia, é sempre obedecer a autoridade do Estado, é usar métodos "convenientes" de pagamento (cartão de crédito, etc.), é fazer todo pagamento em curso legal (moeda nacional), conseguir um "bom emprego", pressionar seus "representantes", "trabalhar dentro da legalidade do sistema", pagar por sua "fatia justa" de impostos, aderir a atual definição de "politicamente correto" ou simplesmente "não dar problema". Todos esses códigos de conduta culminam em um objetivo: Integrar-se em uma sociedade que é liderada, organizada e permitida pelo Estado.
 Visões alternativas são rapidamente rotuladas como "perda de tempo", "anti-práticas", "irrealistas", "utópicas", "excêntricas" ou até mesmo "traição".
@@ -335,19 +335,19 @@ Esses sistemas são necessários para uma cooperação bem sucedida entre indiv�
 
 ---
 
-É através de regulação, licenciamento e dominância cultural que o acesso a essas, e provisionamento dessas instituições e serviços é regulado, sempre com uma firme integração de vigilância e punição. Apesar de que há sempre brechas nesse controle que permitem que pessoas escapem, a principal atividade para legisladores e burocratas parece ser buscar e selar essas brechas - é criar um sistema no qual essas instituições, combinadas com sua cultura pareada, provenham um ferramental totalitário e moldem cada indivíduo sob o domínio do sistema estatal.
+É através de regulação, licenciamento e dominância cultural que o acesso a essas, e provisionamento dessas instituições e serviços é regulado, sempre com uma firme integração de vigilância e punição. Apesar de que há sempre brechas nesse controle que permitem que pessoas escapem, a principal atividade para legisladores e burocratas parece ser buscar e selar essas brechas - é criar um sistema no qual essas instituições, combinadas com sua cultura pareada, provenham um ferramental totalitário e moldem cada indivíduo sob o domínio do sistema Estatal.
 
 ---
 
 Códigos culturais, valores, símbolos e sistemas e instituições de cooperação permitem que o Estado se torne uma entidade espacial, através de seus agentes, proponentes e dependentes. A cultura forma uma base para consentimento ativo enquanto o controle de acesso às instituições cria uma força implícita para manter seus súditos na linha. (Os benefícios de obedecer pesam mais que os riscos da dissidência.)
 
-Isso provê o Estado com **indivíduos** que projetam sua força à esfera espacial através de suas ações. Começa com a simples exclusão social de dissidentes, continua com a delação e convida agentes estatais a situações onde os mesmos são indesejados, e termina por usar a força contra os dissidentes.
+Isso provê o Estado com **indivíduos** que projetam sua força à esfera espacial através de suas ações. Começa com a simples exclusão social de dissidentes, continua com a delação e convida agentes Estatais a situações onde os mesmos são indesejados, e termina por usar a força contra os dissidentes.
 
 ---
 
 Os aspectos entrelaçados da cultura, instituições, lucros da redistribuição e a expectativa de estabilidade formam a fundação do poder dos Estados e garantem um consentimento duradouro (tanto passivo quanto ativo) para a dominância desse sistema.
 
-Nós chamamos o todo desse sistema de: **A primeira esfera.**
+Nós chamamos o todo desse sistema de: **A Primeira Esfera.**
 
 ---
 
@@ -367,7 +367,7 @@ Nós podemos então traçar as seguintes conclusões:
 
 1. **Espacial:** Nós temos que encontrar ou **criar** território (espaço) no qual nenhum agente, proponente, ou dependente do Estado esteja presente ou possa exercer força de qualquer forma direta. Com exceção do espaço sideral (e talvez o alto mar), é improvável que qualquer território que não esteja ocupado por agentes do Estado possa ser encontrado atualmente. Não vale a pena tentar criar esse tipo de território.
 
-2. **Espacial:** Nós temos que proteger e **defender** o território da liberdade contra a vigilância estatal. Vigilância é o precursor da força, seja direta ou indireta. (Senão, a qual propósito ela serve?)
+2. **Espacial:** Nós temos que proteger e **defender** o território da liberdade contra a vigilância Estatal. Vigilância é o precursor da força, seja direta ou indireta. (Senão, a qual propósito ela serve?)
 
 3. **Espacial:** Nós temos que minimizar a necessidade de pessoas livres entrarem em território que é ocupado por agentes do Estado ou vigiado por eles.
 
@@ -383,7 +383,7 @@ Nós podemos então traçar as seguintes conclusões:
 
 9.  **Cultural:** Nós precisamos dos nossos próprios **símbolos** culturais para que o reconhecimento mútuo possa otimizar a comunicação e o ordenamento social, assim como suportar a separação da cultura de nossos oponentes.
 
-10. **Cultural:** Os **códigos** culturais e normas da liberdade devem suportar ambas, a integração e o sustento de pessoas livres e a exclusão de agentes estatais.
+10. **Cultural:** Os **códigos** culturais e normas da liberdade devem suportar ambas, a integração e o sustento de pessoas livres e a exclusão de agentes Estatais.
 
 ---
 
@@ -468,7 +468,7 @@ Há vários exemplos os quais diferem em autonomia e duração, de zonas permane
 
 O mais antigo desses exemplos pode ser encontrado na Europa da idade média na forma de Guetos, que não só serviam como um local para concentrar grupos sociais "indesejados", mas para dar a esses grupos autonomia interna na forma de seus próprios impostos e sistemas de justiça. Mais relevantes nesse respeito são os guetos da diáspora judaica.
 
-Outro exemplo pode ser encontrado hoje na América Latina onde as favelas não só são excluídas de receber serviços oficiais do governo como também constituem zonas autônomas permanentes nas quais a força governamental só desempenha um papel durante incursões estratégicas, mas não no dia-a-dia. Na mesma categoria estão os arranha-céus ocupados em várias cidades Latino Americanas que não foram visitados por nenhum agente estatal para funções oficiais por anos.
+Outro exemplo pode ser encontrado hoje na América Latina onde as favelas não só são excluídas de receber serviços oficiais do governo como também constituem zonas autônomas permanentes nas quais a força governamental só desempenha um papel durante incursões estratégicas, mas não no dia-a-dia. Na mesma categoria estão os arranha-céus ocupados em várias cidades Latino Americanas que não foram visitados por nenhum agente Estatal para funções oficiais por anos.
 
 A Cidade Murada de Kowloon foi outro exemplo dessas zonas autônomas semi-permanente até a sua demolição em 1993. Localizada em território não disputado na fronteira da Hong Kong Britânica, com uma planta de aproximadamente um quilômetro quadrado, foi um local amplamente não governado desde meados de 1950 e era lar de mais de 33 mil pessoas.
 
@@ -482,16 +482,16 @@ Zonas Autônomas Temporárias nos dão a oportunidade para nossa cultura existir
 
 No entanto, nossas zonas autônomas são por vezes muito limitadas em tempo. Nós precisamos de uma "política externa" que aumente sua duração e as faça seguras para atividades sociais e comerciais.
 
-Para isso existem dois métodos no geral. O primeiro envolve ter criado a zona autônoma temporária em segredo, escondida da atenção do Estado que a cerca. Enquanto isso pode funcionar por um tempo, é muito limitada, já que eventualmente o local vai ficar conhecido e meios adicionais de estabilidade serão necessários. O segundo método foca em alcançar uma "tolerância informal" pelas autoridades estatais. Para isso a zona deve atender três critérios:
+Para isso existem dois métodos no geral. O primeiro envolve ter criado a zona autônoma temporária em segredo, escondida da atenção do Estado que a cerca. Enquanto isso pode funcionar por um tempo, é muito limitada, já que eventualmente o local vai ficar conhecido e meios adicionais de estabilidade serão necessários. O segundo método foca em alcançar uma "tolerância informal" pelas autoridades Estatais. Para isso a zona deve atender três critérios:
 
 ---
 
 Primeiro, a zona não deve se tornar um incômodo para os vizinhos nem ser conhecida como problemática para pessoas e propriedades fora da zona.
 Em especial isso inclui que os direitos de propriedade do território devem ser respeitados e que um acordo deve ser alcançado com os donos antes de conduzir qualquer atividade autônoma no local. Qualquer justificativa para influência de terceiros deve ser prevenida.
 
-Segundo, a zona e seus habitantes devem aderir estritamente ao princípio **"o que acontece na zona fica na zona"**, significando que todos os conflitos devem ser resolvidos sem a intervenção de agentes da lei externos. Isso implica que devemos lidar com arruaceiros internos de forma imediata; antes que o conflito possa se escalar. Além disso, agentes estatais e proponentes devem ser desencorajados de visitar o local. Normalmente isso ocorre não convidando pessoas de reputação questionável ou amigos conhecidos do Estado.
+Segundo, a zona e seus habitantes devem aderir estritamente ao princípio **"o que acontece na zona fica na zona"**, significando que todos os conflitos devem ser resolvidos sem a intervenção de agentes da lei externos. Isso implica que devemos lidar com arruaceiros internos de forma imediata; antes que o conflito possa se escalar. Além disso, agentes Estatais e proponentes devem ser desencorajados de visitar o local. Normalmente isso ocorre não convidando pessoas de reputação questionável ou amigos conhecidos do Estado.
 
-Terceiro, o custo da intervenção por uma parte de fora deve ser engrandecido ao ponto de se tornar injustificável, e que seja mais lucrativo para o atacante fazer vista grossa. Enquanto propinas são uma forma comum de  alcançar esse objetivo, uma tática mais completa promete sucesso:
+Terceiro, o custo da intervenção por uma parte de fora deve ser engrandecido ao ponto de se tornar injustificável, e que seja mais lucrativo para o atacante fazer vista grossa. Enquanto propinas são uma forma comum de alcançar esse objetivo, uma tática mais completa promete sucesso:
 
 > **E**sconder, **S**aber, **A**trasar, **D**efender, **D**estruir, **R**ecuperar. ^[Mnemônica: Esses socialistas adoram duvidar da razão]
 
@@ -501,7 +501,7 @@ Segundo, alguém precisa **saber** quando um ataque físico - uma incursão - co
 
 Terceiro, **atrasar** o agressor com formas passivas para prevenir que esse execute um ataque surpresa. Normalmente envolve várias barreiras, como várias portas reforçadas que precisam ser quebradas antes que a área de interesse principal seja alcançada. Isso é necessário para possibilitar que os ocupantes da zona autônoma temporária possam:
 
-Quarto, **defender** o local. Enquanto opcional contra agressores do Estado isso é uma necessidade contra incursões de agentes não estatais como gangues e outras formas violentas de crime organizado que esperam encontrar objetos de valor ou tomar território. No caso de agentes não estatais, defesa por dissuasão pode se provar lucrativa. Isso pode ser feito ao mostrar que ambos sistemas de alarme e formas de atraso estão presentes, por exemplo sistemas de câmeras de segurança e barreiras de arame farpado.
+Quarto, **defender** o local. Enquanto opcional contra agressores do Estado isso é uma necessidade contra incursões de agentes não Estatais como gangues e outras formas violentas de crime organizado que esperam encontrar objetos de valor ou tomar território. No caso de agentes não Estatais, defesa por dissuasão pode se provar lucrativa. Isso pode ser feito ao mostrar que ambos sistemas de alarme e formas de atraso estão presentes, por exemplo sistemas de câmeras de segurança e barreiras de arame farpado.
 
 Quinto, qualquer atacante deve sempre ser frustrado na busca por seu objetivo durante o ataque. Isso normalmente significa que qualquer coisa que pode ser do interesse deles deve ser **destruído** ou removido. Isso serve um propósito duplo. De um lado desencoraja o atacante e outros depois dele de atacar tal área novamente porque o custo do ataque ultrapassa qualquer lucro ganho com isso.
 Por outro lado, serve para proteger qualquer informação de chegar nos atacantes. Os mantém longe de qualquer coisa que poderia ser usada tanto para planejar futuros ataques ou como evidência em um julgamento contra os ocupantes da zona.
@@ -509,7 +509,7 @@ No caso de atividades de mercado negro o produto deve ser separado do comerciant
 
 Por último, é necessário que não se desista da estratégia após o primeiro ataque bem sucedido. Qualquer operação deve estar empenhada em se **recuperar** para ser estável a longo prazo. Enquanto ataques para "assustar" podem ser lucrativos para o atacante se a estratégia for abandonada, ataques rapidamente repetidos se tornam problemáticos tanto em questão de custo quanto em opinião pública.
 
-É muito importante que se enfatize que não estamos falando sobre uma "base militar" que foi criada para desencorajar um ataque. Ao invés disto, o objetivo da nossa proposta é criar áreas que façam ataques repetidos (mesmo com êxito) por lucro ou evidência, muito caros e menos atraentes. Qualquer forma direta de batalha aberta com os agentes estatais levará a derrota e perdas de vidas e liberdade. Nosso objetivo é manter a evidência longe das mãos de agressores. A única situação que um conflito direto pode ser lucrativo é contra criminosos violentos não estatais.
+É muito importante que se enfatize que não estamos falando sobre uma "base militar" que foi criada para desencorajar um ataque. Ao invés disto, o objetivo da nossa proposta é criar áreas que façam ataques repetidos (mesmo com êxito) por lucro ou evidência, muito caros e menos atraentes. Qualquer forma direta de batalha aberta com os agentes Estatais levará a derrota e perdas de vidas e liberdade. Nosso objetivo é manter a evidência longe das mãos de agressores. A única situação que um conflito direto pode ser lucrativo é contra criminosos violentos não Estatais.
 
 ---
 
@@ -573,7 +573,7 @@ Essa ameaça é fundada em nossa oposição à provisão de justiça compulsóri
 
 Por um lado nós não podemos usar o sistema de justiça do Estado como solução para violações que experimentamos de forasteiros, o que requer que tenhamos nossos próprios meios de nos defender contra a agressão de terceiros e alcançar justiça se a defesa falhar. Nós precisamos do nosso próprio sistema de justiça e mecanismos de aplicação.
 
-De outro lado, os braços de sistema de justiça e aplicação da lei estatal são contrários à existência de nossos sistemas e as ações que participamos fora de sua esfera proclamada. Nós, portanto, nos deparamos com o Estado tentando se intrometer em nossos negócios e nos punir por não obedecê-lo ou nos esconder de seus agentes.
+De outro lado, os braços de sistema de justiça e aplicação da lei Estatal são contrários à existência de nossos sistemas e as ações que participamos fora de sua esfera proclamada. Nós, portanto, nos deparamos com o Estado tentando se intrometer em nossos negócios e nos punir por não obedecê-lo ou nos esconder de seus agentes.
 
 ---
 
@@ -617,7 +617,7 @@ Isso impede agressores de revelar informações ao ligar várias trocas ou peda�
 
 ---
 
-Compartimentalização. Novamente, é a atitude quase onipresente que rasteja em nossos subconscientes que nos traz ao bisbilhotamento, hierarquias de comando-e-controle e àquele sentimento estranho de que não pediram nossa permissão nem nos envolveram em tudo - mesmo quando não tem justificativa pra sermos incluídos.
+Compartimentalização. Novamente, é a atitude quase onipresente que rasteja em nossos subconscientes que nos traz ao bisbilhotamento, hierarquias de comando-e-controle e àquele sentimento estranho de que não pediram nossa permissão nem nos envolveram em tudo - mesmo quando não tem justificativa para sermos incluídos.
 
 Em vez disso, deveríamos começar a apreciar a iniciativa individual e a competição de ideias e soluções sem que tudo seja planejado central ou coletivamente, amplamente difundido e perfeitamente sincronizado.
 Enquanto nossa curiosidade humana deseja ser fomentada é por vezes mais lucrativo separar nossas ações das dos outros de forma que um terceiro seja impedido de vigiar o processo todo ou de juntar informação o suficiente para agir contra nós.
@@ -677,7 +677,7 @@ A segurança começa com a manutenção da paz. Enquanto isso pode soar óbvio �
 
 Ser apenas passivo, no entanto, não ajuda. Uma defesa de sucesso começa com preparação e ações preventivas. Isso não só inclui o preparo de instalações defensivas, mas também a escolha de local e especialmente a limitação ativa de coleta de inteligência hostil por potenciais adversários.
 
-Além disso, é lucrativo empregar atividades de contrainteligência  discretas para desenvolver uma visão geral das ameaças em potencial e a habilidade de detectar ações contra nós antes que sejam executadas.
+Além disso, é lucrativo empregar atividades de contrainteligência discretas para desenvolver uma visão geral das ameaças em potencial e a habilidade de detectar ações contra nós antes que sejam executadas.
 
 ---
 
@@ -729,7 +729,7 @@ Para inspirar empreendedores em potencial nessa indústria que queiram ser ativo
 
 **Controle de Acesso Anônimo e Remoto**
 
-Um dia haverão batidas na porta de um de nossos locais protegidos: "Polícia, nós temos um mandato de busca." Agora é a hora que o frio provedor de segurança da Segunda Esfera prova o quanto vale: Gadosamente apertar o botão para abrir a porta e botar em perigo todos que estão dentro, ou não fazer nada além de enviar um aviso para todos e deixar que os atacantes descubram uma forma de atravessar o portão reforçado de concreto. A combinação de um sistema de câmeras e a comunicação anônima reduz imensamente as consequências para o segurança remoto e lhe dá a liberdade de agir de acordo com o interesse de seus clientes. Para adicionar ainda mais segurança, múltiplos operadores anônimos localizados em diferentes locais desconhecidos poderiam ser necessários para concordar em uma ação, assim nem infiltração, propina, chantagem ou puro medo podem comprometer a segurança da zona autônoma temporária.
+Um dia haverão batidas na porta de um de nossos locais protegidos: "Polícia, nós temos um mandato de busca". Agora é a hora que o frio provedor de segurança da Segunda Esfera prova o quanto vale: Gadosamente apertar o botão para abrir a porta e botar em perigo todos que estão dentro, ou não fazer nada além de enviar um aviso para todos e deixar que os atacantes descubram uma forma de atravessar o portão reforçado de concreto. A combinação de um sistema de câmeras e a comunicação anônima reduz imensamente as consequências para o segurança remoto e lhe dá a liberdade de agir de acordo com o interesse de seus clientes. Para adicionar ainda mais segurança, múltiplos operadores anônimos localizados em diferentes locais desconhecidos poderiam ser necessários para concordar em uma ação, assim nem infiltração, propina, chantagem ou puro medo podem comprometer a segurança da zona autônoma temporária.
 
 **Sistemas de Defesa Anônimos Remotos**
 
@@ -797,7 +797,7 @@ Na Segunda Esfera, competição, diversidade e escolha são a regra, que é o mo
 
 A vida em si, e especialmente a estratégia de oposição, trás consigo uma variedade de riscos. Enquanto muitos desses riscos podem ser limitados ou mitigados, viver e agir sem assumir risco algum é impossível. Apenas pessoas de alta independência financeira podem encarar esses riscos por conta própria - ou pelo menos acreditam que podem.
 
-É crucial que criemos soluções para esse problema ao estabelecer **redes de ajuda mútua**. Existem dois motivos pra isso:
+É crucial que criemos soluções para esse problema ao estabelecer **redes de ajuda mútua**. Existem dois motivos para isso:
 
 Primeiro, nós temos que permitir que pessoas não precisem cair de volta no sistema de bem-estar social controlados pelo governo em caso de desastre. A liberdade requer uma separação do Estado nessas áreas também: "Para ser livre, o escravo deve primeiro recusar a esmola do mestre."
 
@@ -913,7 +913,7 @@ Nós terminamos nossa excursão na filosofia da liberdade por aqui. Muitos pensa
 
 Em vez disso, deve-se parar por um minuto e refletir sobre o assunto. Isso faz sentido? Isso também não nos pede que vivamos dessa forma? Não é algo tão correto que exige nosso apoio?
 
-O que é que a liberdade realmente nos dá? Certamente não é a prosperidade que faz dela tão importante pra começar, apesar de ser um ótimo efeito colateral.
+O que é que a liberdade realmente nos dá? Certamente não é a prosperidade que faz dela tão importante para começar, apesar de ser um ótimo efeito colateral.
 
 Por um lado, a liberdade é o fundamento de nossa humanidade. É o que nos leva a nos motivar, a termos determinação, mas também é o que nos permite interagir de forma agradável com os outros - **Liberdade é Paz**. Não a paz baseada em ameaças mútuas de aniquilação ou covardia, mas sim uma fundada no que nos faz especiais como humanos.
 
@@ -933,7 +933,7 @@ A ética da Autonomia Individual tem consequências para a cultura da Segunda Es
 
 Nós temos que respeitar a autonomia individual das pessoas da Primeira Esfera, e até as decisões que eles ingenuamente delegaram às instituições e governos fora de seu controle. Isso não significa que os sistemas resultantes disso sejam éticos, mas eles são a vontade de muitos. Logo, não cabe a nós destruir esses sistemas, mas, melhor que isso, oferecer alternativas éticas, abrir portas para a Segunda Esfera onde pessoas podem abraçar sua humanidade por completo através da liberdade.
 
-Isso é necessário por vários motivos. Primeiro, isso nos permite manter a vantagem moral. Enquanto isso não é o motivo principal em si, justifica nossa posição e mostra respeito aos indivíduos "do lado de lá", reduzindo a oposição emocional contra a Segunda Esfera. Segundo, é necessária a preservação da integridade ética da Segunda Esfera. Michael Gaddy disse: "O campo de batalha da liberdade é forrado de corpos dos que acreditam em concessões." Concessões em nossas fundações éticas em relação à Primeira Esfera também vão manchar essas fundações na Segunda Esfera.
+Isso é necessário por vários motivos. Primeiro, isso nos permite manter a vantagem moral. Enquanto isso não é o motivo principal em si, justifica nossa posição e mostra respeito aos indivíduos "do lado de lá", reduzindo a oposição emocional contra a Segunda Esfera. Segundo, é necessária a preservação da integridade ética da Segunda Esfera. Michael Gaddy disse: "O campo de batalha da liberdade é forrado de corpos dos que acreditam em concessões". Concessões em nossas fundações éticas em relação à Primeira Esfera também vão manchar essas fundações na Segunda Esfera.
 
 Isso nos motiva a manter a paz com a Primeira Esfera enquanto cabe a nós, a não interferir na Primeira Esfera, a manter as duas esferas radicalmente separadas. Não há espaço para impasse.
 
@@ -1013,13 +1013,13 @@ Nem todos nós vivemos aqui a toda a hora. Muitos levam uma vida dupla com uma v
 
 ---
 
-Nós somos tribos de mente e alma, não definidas por nação ou raça, mas apenas por pensamento e essência. Estamos por toda parte - e estamos aqui pra ficar.
+Nós somos tribos de mente e alma, não definidas por nação ou raça, mas apenas por pensamento e essência. Estamos por toda parte - e estamos aqui para ficar.
 
 ---
 
 Se você esperava um manual de apertos de mão secretos, de palavras para usar, moda para vestir, música a se ouvir e opiniões necessárias - você deve estar decepcionado agora.
 
-Não é nosso trabalho criar essa cultura, empacotá-la e entregá-la na sua porta pra você. É o seu trabalho, não o nosso, vivê-la.
+Não é nosso trabalho criar essa cultura, empacotá-la e entregá-la na sua porta para você. É o seu trabalho, não o nosso, vivê-la.
 
 # Considerações Finais
 
