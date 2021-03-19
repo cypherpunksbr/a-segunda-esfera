@@ -789,28 +789,28 @@ Como regra geral nós precisamos encontrar meios de criar evidência necessária
 
 ## Serviços Compartilhados
 
-Na Primeira Esfera esses a seguir são chamados de "serviços institucionais" e apenas providos "oficialmente" e com licenças para legitimar o controle exercído. Instituições se tornam organismos sociais por conta própria, se isolando de competição e abolimento.
+Na Primeira Esfera esses a seguir são chamados de "serviços institucionais" e apenas providos "oficialmente" e com licenças para legitimar o controle exercido. As instituições se tornam organismos sociais por conta própria, se isolando de competição e abolimento.
 
-Na Segunda Esfera, competição, diversidade e escolha são a regra, que é o motivo de chamarmos esses de "serviços compartilhados."
+Na Segunda Esfera, competição, diversidade e escolha são a regra, que é o motivo de chamarmos esses de "serviços compartilhados".
 
 ---
 
 A vida em si, e especialmente a estratégia de oposição, trás consigo uma variedade de riscos. Enquanto muitos desses riscos podem ser limitados ou mitigados, viver e agir sem assumir risco algum é impossível. Apenas pessoas de alta independência financeira podem encarar esses riscos por conta própria - ou pelo menos acreditam que podem.
 
-É crucial que criemos soluções para esse problema ao estabelecer **redes de ajuda mutua**. Existem dois motivos pra isso:
+É crucial que criemos soluções para esse problema ao estabelecer **redes de ajuda mútua**. Existem dois motivos pra isso:
 
 Primeiro, nós temos que permitir que pessoas não precisem cair de volta no sistema de bem-estar social controlados pelo governo em caso de desastre. A liberdade requer uma separação do Estado nessas áreas também: "Para ser livre, o escravo deve primeiro recusar a esmola do mestre."
 
-Contrário às ofertas do Estado, essa área precisa estar coberta pelos empreendedores e acordos de ajuda mutua a nível social. Ajudar nossos amigos necessitados enquanto ao mesmo tempo os encorajamos e os ajudamos a ajudar a si mesmos deve ser nosso objetivo. Se isso é melhor alcançado por operações comerciais ou a nível social ainda está para ser descoberto - pelo mercado.
+Contrário às ofertas do Estado, essa área precisa estar coberta pelos empreendedores e acordos de ajuda mútua a nível social. Ajudar nossos amigos necessitados enquanto ao mesmo tempo os encorajamos e os ajudamos a ajudarem a si mesmos, deve ser nosso objetivo. Se isso é melhor alcançado por operações comerciais ou a nível social, ainda está para ser descoberto - pelo mercado.
 No entanto, nada no mercado acontece sem ser lucrativo ou com empreendedores sociais agindo e implementando soluções.
 
-Já que nós somos confrontados por opressão estatal, temos um conjunto bem específico de riscos a serem encarados e resolvidos. Algumas coisas que fazemos podem levar indivíduos a enfrentar a fúria da Primeira Esfera, seja aprisionamento ou expropriação de bens. Para permitir que pessas dêem os passos necessários, compartilhamento de riscos na forma de seguros para nossos negócios são essenciais. Pode ser pouca coisa como "suporte emocional" ao **visitar prisioneiros**, ou melhor ajudando a pagar advogados e suporte econômico para as familias em casa. Além da melhora na habilidade dos indivíduos de tomar mais riscos isso também ajuda provendo uma maior coesão social. Mesmo assim, deve-se tomar cuidado para não encorajar as pessoas a assumirem riscos de forma indiscriminada ou se tornarem dependentes apenas da ajuda provida a eles pela sociedade da Segunda Esfera.
+Já que nós somos confrontados através de opressão Estatal, temos um conjunto bem específico de riscos a serem encarados e resolvidos. Algumas coisas que fazemos podem levar indivíduos a enfrentarem a fúria da Primeira Esfera, seja aprisionamento ou expropriação de bens. Para permitir que pessoas dêem os passos necessários, compartilhamento de riscos na forma de seguros para nossos negócios são essenciais. Pode ser pouca coisa como "suporte emocional" ao **visitar prisioneiros**, ou melhor ajudando a pagar advogados e suporte econômico para as famílias em casa. Além da melhora na habilidade dos indivíduos de tomar mais riscos, isso também ajuda provendo uma maior coesão social. Mesmo assim, deve-se tomar cuidado para não encorajar as pessoas a assumirem riscos de forma indiscriminada ou se tornarem dependentes apenas da ajuda provida a eles pela sociedade da Segunda Esfera.
 
 ---
 
-Sistemas internos de justiça são outro exemplo de serviços compartilhados. Nós não vamos para um futuro utópico onde a fraude, o roubo e a agressão disaparecem. Em vez disso temos que encontrar formas de prover sistemas de resolução de conflitos, garantias e restituições.
+Sistemas internos de justiça são outro exemplo de serviços compartilhados. Nós não vamos para um futuro utópico onde a fraude, o roubo e a agressão desaparecem. Em vez disso, temos que encontrar formas de prover sistemas de resolução de conflitos, garantias e restituições.
 
-Isso requer formas seguras de registrar contratos e reter evidências no caso de desententimentos sem o risco de terceiros não convidados obterem qualquer informação.
+Isso requer formas seguras de registrar contratos e reter evidências no caso de desentendimentos sem o risco de terceiros não convidados obterem qualquer informação.
 
 Ao usar esses **registros de contrato** e **sistemas de retenção de evidências**, as partes afetadas podem pedir por provedores de **mediação** e **arbitragem** e entregar todos os fatos necessários para decidir o caso.
 Junto com serviços de **garantia** (escrow) e **vínculo** (bonding), a garantia de contrato se torna viável sem necessidade de aplicação agressiva de leis em esferas comerciais.
@@ -818,22 +818,22 @@ Além disso, sistemas robustos de pseudônimos e reputação podem prover meios 
 
 ---
 
-Pontos de troca que provêem caixas de deposito anônimas que são acessíveis por um vínculo digital negociável são uma solução para proteger ambos comprador e vendedor ao reduzir a necessidade de conduzir vendas pessoalmente.
+Pontos de troca que provêem caixas de depósito anônimas que são acessíveis por um vínculo digital negociável, são uma solução para proteger ambos comprador e vendedor, ao reduzir a necessidade de conduzir vendas pessoalmente.
 
-Outra idéia é o uso de "mesas de troca" que são acessíveis dos dois lados apenas por corredores difíceis de vigiar e que tem uma barreira entre as partes que não pode ser fácilmente transposta e que protege a identidade de ambas as partes. Comprador e vendedor se seguram um ao outro com uma mão durante a troca, impedindo um lado de sair correndo enquanto a troca está pela metade, e usam a outra mão para mover os bens entre eles.
-Essencialmente essas mesas de troca lembrariam o caixa do banco mas protegendo ambas as partes igualmente.
+Outra ideia é o uso de "mesas de troca" que são acessíveis dos dois lados apenas por corredores difíceis de vigiar e que tem uma barreira entre as partes que não pode ser facilmente transposta e que protege a identidade de ambas as partes. Comprador e vendedor se seguram um ao outro com uma mão durante a troca, impedindo um lado de sair correndo enquanto a troca está pela metade, e usam a outra mão para mover os bens entre eles.
+Essencialmente essas mesas de troca lembrariam o caixa do banco, mas protegendo ambas as partes igualmente.
 
 Ambos os serviços poderiam ser providos por clubes de negócio competidores ou salões de troca que não só se diferem no preço mas também nos métodos que provêem para trocas seguras.
 
 ---
 
-Outra instituição provida pelo sistema estatal que deve ser substituida pelos serviços compartilhados da Segunda Esfera é o dinheiro, a sua transferência e liquidação. Dinheiro é um símbolo cultural incrivelmente poderoso que oferece formas de reconhecimento mútuo e pode representar os valores centrais de uma sociedade.
+Outra instituição provida pelo sistema Estatal que deve ser substituída pelos serviços compartilhados da Segunda Esfera é o dinheiro, a sua transferência e liquidação. Dinheiro é um símbolo cultural incrivelmente poderoso que oferece formas de reconhecimento mútuo e pode representar os valores centrais de uma sociedade.
 
-É provável que a Segunda Esfera foque em moedas independentes, provavelmente pesos de ouro ou prata, e deveria faze-lo para se separar da Primeira Esfera. Além disso dinheiro digital anônimo e sistemas de transação podem superar limitações geográficas, regulação e controle da Primeira Esfera.
+É provável que a Segunda Esfera foque em moedas independentes, provavelmente pesos de ouro ou prata, e deveria fazê-lo para se separar da Primeira Esfera. Além disso, dinheiro digital anônimo e sistemas de transação podem superar limitações geográficas, regulação e controle da Primeira Esfera.
 
 Converter o dinheiro da Primeira Esfera para o da Segunda Esfera, e servir de ponte entre dinheiro físico e digital é uma tarefa que faz necessário um tipo especial de empreendedor: O cambista informal. Um cambista informal vai comprar e vender uma moeda pela outra, com a transação tendo liquidez imediata para o cliente.
 
-Enquanto esse segmento vem com alguns riscos definidos, também é acessível a pessoas de capital ou reputação limitados, já que não há rastro e os riscos de falta de liquidez são minimos. Redes de cambistas informais conectados por moedas digitais permitem transferências de valor globais quase imediatas com o mínimo de custo e baixo risco ao cliente, tornando a Segunda Esfera virtualmente independente do dinheiro e bancos controlados pelo Estado.
+Enquanto esse segmento vem com alguns riscos definidos, também é acessível a pessoas de capital ou reputação limitados, já que não há rastro e os riscos de falta de liquidez são mínimos. Redes de cambistas informais conectados por moedas digitais permitem transferências de valor globais quase imediatas com o mínimo de custo e baixo risco ao cliente, tornando a Segunda Esfera virtualmente independente do dinheiro e bancos controlados pelo Estado.
 
 ## Segurança Por Penalidades Financeiras
 
@@ -841,7 +841,7 @@ Como nota de encerramento desse capítulo é importante relembrar que penalidade
 
 O Estado é um oponente de bolsos fundos que pode exceder nossa oferta e travar a guerra de recursos contra os sistemas de garantia (escrow) e vínculo (bonding).
 
-É então necessária também a criação de um sistema social que se mantém ciente dessa ameaça e deixa a vantagem nas nossas mãos, caso contrário desperdiçaremos recursos.
+Então também é necessária a criação de um sistema social que se mantém ciente dessa ameaça e deixa a vantagem nas nossas mãos, caso contrário desperdiçaremos recursos.
 
 # A Segunda Esfera - Filosofia
 
@@ -858,7 +858,7 @@ E o que é essa tal Liberdade que nós falamos?
 
 ## O que é Liberdade?
 
-Sem nos aprofundar nas filosofias da liberdade aqui, têm-se que diferenciar entre duas maiores vertentes do pensamento "libertário". Uma é o argumento da consequência, de que uma maior liberdade aumenta a prosperidade e essa é um objetivo a ser almejado para que a fome e outros perigos desaparecem. Enquanto concordamos que esse fim é preferível, nosso argumento é outro: Que a liberdade já se faz suficiente, sendo o objetivo final.
+Sem nos aprofundar nas filosofias da liberdade aqui, têm-se que diferenciar entre duas maiores vertentes do pensamento "libertário". Uma é o argumento da consequência, de que uma maior liberdade aumenta a prosperidade e esse é um objetivo a ser almejado para que a fome e outros perigos desapareçam. Enquanto concordamos que esse fim é preferível, nosso argumento é outro: O de que a liberdade é preferível por si só, sendo o objetivo final.
 
 ---
 
@@ -874,38 +874,38 @@ Primeira, que a autonomia só se aplica à pessoa assegurando esse direito para 
 
 Segunda, que ao assegurar esse direito eu também tenho que ceder esse direito aos outros. Isso significa que sob nenhuma circunstância minhas ações devem sobrepôr a autonomia de outrem.
 
-Terceira, que a autonomia lida com regras que escolhemos como princípios de nos auto governar, mas essas regras não tem que ser concebidas nem podemos forçar outra pessoa a garantir a lei para com nós mesmos ou o universo. Quer gostemos ou não, a concepção de nossas regras é limitada pelas leis da natureza. Enquanto podemos decidir que a gravidade não se aplica a nós, isso não muda a aplicabilidade da gravidade. Também, não podemos forçar os outros a fazer nossas regras funcionarem por nós, já que isso violaria suas autonomias. No máximo podemos pedir ajuda - não obriga-las. Apenas decidir que sempre vamos comer o que queremos não obriga ninguém a nos prover a comida, ou o universo a se tornar uma grande dispensa.
+Terceira, que a autonomia lida com regras que escolhemos como princípios de nos auto governar, mas essas regras não tem que ser concebidas nem podemos forçar outra pessoa a garantir a lei para com nós mesmos ou o universo. Quer gostemos ou não, a concepção de nossas regras é limitada pelas leis da natureza. Enquanto podemos decidir que a gravidade não se aplica a nós, isso não muda a aplicabilidade da gravidade. Também, não podemos forçar os outros a fazer nossas regras funcionarem por nós, já que isso violaria suas autonomias. No máximo podemos pedir ajuda - não obrigá-las. Apenas decidir que sempre vamos comer o que queremos não obriga ninguém a nos prover a comida, ou o universo a se tornar uma grande dispensa.
 
 ---
 
-Já que a aplicação da autonomia individual tem esses limites implícitos, e porque multiplos indivíduos autônomos podem criar leis conflitantes, se faz necessário delimitar até onde se pode exercer sua autonomia.
+Já que a aplicação da autonomia individual tem esses limites implícitos, e porque múltiplos indivíduos autônomos podem criar leis conflitantes, se faz necessário delimitar até onde se pode exercer sua autonomia.
 
 Esse escopo da autonomia é conhecido como "propriedade". São os limites físicos nas quais a pessoa é a única fonte da lei. São físicos porque apenas a interação física pode limitar a autonomia de outro ser físico. E é necessária para que indivíduos tenham espaço para decidir por si mesmos e saber se suas decisões são justificadas.
 
-Qualquer tentativa de negar o conceito de propriedade individual e física é um ataque ao conceito de autonomia individual. Ambas são interligadas de forma inseparável no universo que vivemos.
+Qualquer tentativa de negar o conceito de propriedade individual e física é um ataque ao conceito de autonomia individual. Ambas são interligadas de forma inseparável no universo em que vivemos.
 
 ---
 
-Isso nos leva à segunda afirmação fundamental sobre liberdade. Liberdade não é independência pura ou auto-sustentabilidade. Já que a maioria de nós não consegue satisfazer nossas necessidades e desejos por nós mesmos, e porque nossos escopos de autonomia fazem fronteira uns nos outros, necessitamos de interação com as pessoas - socializar, fazer trocas, acasalar, etc.
+Isso nos leva à segunda afirmação fundamental sobre liberdade. Liberdade não é independência pura ou auto-sustentabilidade. Já que a maioria de nós não consegue satisfazer nossas necessidades e desejos por nós mesmos, e porque nossos escopos de autonomia fazem fronteira uns nos outros, necessitamos de interação com as pessoas - acasalar, fazer trocas, socializar, etc.
 
-A única forma possível de fazer isso enquanto se preserva a autonomia individual é a interação de forma voluntária, significando que todos que interagem devem faze-lo por vontade própria e que a única interação aceitável é uma na qual ambas as partes concordem completamente. Qualquer outra interação leva à violação da autonomia individual e deve ser considerada um crime.
+A única forma possível de fazer isso enquanto se preserva a autonomia individual é a interação de forma voluntária, significando que todos que interagem devem fazê-lo por vontade própria e que a única interação aceitável é uma na qual ambas as partes concordem completamente. Qualquer outra interação leva à violação da autonomia individual e deve ser considerada um crime.
 
-Dito isso, é lógico que até a delegação temporária de decisões aos outros e qualquer tipo de contrato ou lei que escolhermos para grupos sociais deve ser **unanimimente consensual** por todas as partes delegantes ou delegadas, e todas as partes entrando num grupo ou formando um grupo que outros entrem. Qualquer coisa que não atenda esse padrão viola a autonomia individual. Onde não se pode chegar a um consenso, as partes conflitantes podem apenas encerrar sua interação e seguirem seus caminhos separados.
+Dito isso, é lógico que até a delegação temporária de decisões aos outros e qualquer tipo de contrato ou lei que escolhermos para grupos sociais deve ser **unanimemente consensual** por todas as partes delegantes ou delegadas, e todas as partes entrando num grupo ou formando um grupo que outros entrem. Qualquer coisa que não atenda esse padrão viola a autonomia individual. Onde não se pode chegar a um consenso, as partes conflitantes podem apenas encerrar sua interação e seguirem seus caminhos separados.
 
 ---
 
-Autonomia Individual também é recíprocra, como mencionado acima. Garantir esse direito também significa que nós temos que ceder esse direito aos outros, quando o negamos aos outros o negamos a nós mesmos.
+Autonomia Individual também é recíproca, como mencionado acima. Garantir esse direito também significa que nós temos que ceder esse direito aos outros, quando o negamos aos outros, o negamos a nós mesmos.
 
-O que leva a três grandes conseqüências na interação social.
+O que leva a três grandes consequências na interação social.
 
 Primeira, qualquer violação da autonomia (crime) pode apenas ser respondido e punido por uma igual redução da autonomia da parte agressora e a restauração da autonomia da parte prejudicada. Crimes são, portanto, resolvidos primeiramente ressarcindo a vítima e apenas depois aplicando o mesmo mal ao agressor. Isso constitui a máxima básica da justiça sob a autonomia individual e a mais alta punição justificável em qualquer caso.
 Porém ela abre espaço para que a vítima perdoe o agressor a qualquer momento que desejar, ou a concordar voluntariamente com o mesmo em obter outra forma de restituição.
 
 Segunda, a única parte a receber uma restituição é a vítima, a única parte a pagar uma restituição é o agressor - uma ação que não tem vítima não pode levar à punição. Qualquer outro tipo de justiça seria ela mesma criminosa, porque viola a autonomia individual das partes que não agiram.
 
-Terceira, garantir a autonomia de alguém também implica no direito de defender-se contra violações dessa sob os mesmos princípios de justiça mencionados acima. Para isso, um crime deve estar ocorrendo, e qualquer defesa deve ser relacionada à violação. Atirar em alguém porque ele pode ir a sua casa roubar algum dia não é permissível, e matar a pessoa por invasão também não.
+Terceira, garantir a autonomia de alguém também implica no direito de defender-se contra violações desta sob os mesmos princípios de justiça mencionados acima. Para isso, um crime deve estar ocorrendo, e qualquer defesa deve ser relacionada à violação. Atirar em alguém porque ele pode ir a sua casa roubar algum dia não é permissível, e matar a pessoa por invasão também não.
 
-Quarta, mesmo que alguém tenha violado sua autonomia ou que não tenha garantido sua própria, isso não implica que a pessoa não tenha uma autonomia que deva ser respeitada por nós. Um cobrador de impostos não perde seu direito à autonomia, e não é justificável enforca-lo na árvore mais próxima. Assim como o subsidio de impostos roubados do seu bolso não te permite usar um serviço muito além da quantia justificada da qual você seria restituido.
+Quarta, mesmo que alguém tenha violado sua autonomia ou que não tenha garantido sua própria, isso não implica que a pessoa não tenha uma autonomia que deva ser respeitada por nós. Um cobrador de impostos não perde seu direito à autonomia, e não é justificável enforcá-lo na árvore mais próxima. Assim como o subsídio de impostos roubados do seu bolso não te permite usar um serviço muito além da quantia justificada da qual você seria restituído.
 
 ---
 
@@ -915,7 +915,7 @@ Em vez disso, deve-se parar por um minuto e refletir sobre o assunto. Isso faz s
 
 O que é que a liberdade realmente nos dá? Certamente não é a prosperidade que faz dela tão importante pra começar, apesar de ser um ótimo efeito colateral.
 
-Por um lado a liberdade é o fundamento de nossa humanidade. É o que nos leva a nos motivar, a termos determinação, mas também é o que nos permite interagir de forma agradável com os outros - **Liberdade é Paz**. Não a paz baseada em ameaças mútuas de aniquilação ou covardia, mas sim uma fundada no que nos faz especiais como humanos.
+Por um lado, a liberdade é o fundamento de nossa humanidade. É o que nos leva a nos motivar, a termos determinação, mas também é o que nos permite interagir de forma agradável com os outros - **Liberdade é Paz**. Não a paz baseada em ameaças mútuas de aniquilação ou covardia, mas sim uma fundada no que nos faz especiais como humanos.
 
 Liberdade é o que nos dá espaço para nos tornarmos mais humanos, para viver de acordo com nossas crenças éticas e morais, para progredir, para ter paz com os outros.
 
@@ -927,21 +927,21 @@ Para resumir, **não se pode ser totalmente humano sem também estar em liberdad
 
 ## Primeiras Implicações
 
-A ética da Autonomia Individual tem conseqüências para a cultura da Segunda Esfera, e as interações que temos com a Primeira Esfera.
+A ética da Autonomia Individual tem consequências para a cultura da Segunda Esfera, e as interações que temos com a Primeira Esfera.
 
 ---
 
-Nós temos que respeitar a autonomia individual das pessoas da Primeira Esfera, e até as decisões que eles ingenuamente delegaram às instituições e governos fora de seu controle. Isso não significa que os sistemas resultantes disso sejam éticos, mas eles são a vontade de muitos. Logo, não cabe a nós destruir esses sistemas mas, melhor que isso, oferecer alternativas éticas, abrir portas para a Segunda Esfera onde pessoas podem abraçar sua humanidade por completo através da liberdade.
+Nós temos que respeitar a autonomia individual das pessoas da Primeira Esfera, e até as decisões que eles ingenuamente delegaram às instituições e governos fora de seu controle. Isso não significa que os sistemas resultantes disso sejam éticos, mas eles são a vontade de muitos. Logo, não cabe a nós destruir esses sistemas, mas, melhor que isso, oferecer alternativas éticas, abrir portas para a Segunda Esfera onde pessoas podem abraçar sua humanidade por completo através da liberdade.
 
-Isso é necessário por vários motivos. Primeiro, isso nos permite manter a vantagem moral. Enquanto isso não é o motivo principal em si, justifica nossa posição e mostra respeito aos indivíduos "do lado de lá", reduzindo a oposição emocional contra a Segunda Esfera. Segundo, é necessária a preservação da integridade ética da Segunda Esfera. Michael Gaddy disse: "O campo de batalha da liberdade é forrado de corpos dos que acreditam em concessões." Concessões em nossas fundações éticas em relação à Primeira Esfera também vai manchar essas fundações na Segunda Esfera.
+Isso é necessário por vários motivos. Primeiro, isso nos permite manter a vantagem moral. Enquanto isso não é o motivo principal em si, justifica nossa posição e mostra respeito aos indivíduos "do lado de lá", reduzindo a oposição emocional contra a Segunda Esfera. Segundo, é necessária a preservação da integridade ética da Segunda Esfera. Michael Gaddy disse: "O campo de batalha da liberdade é forrado de corpos dos que acreditam em concessões." Concessões em nossas fundações éticas em relação à Primeira Esfera também vão manchar essas fundações na Segunda Esfera.
 
-Isso nos motiva a manter a paz com a Primeira Esfera enquanto cabe a nós, a não interferir na Primeira Esfera, a manter as duas esferas radicalmente separadas. Não há espaço para empasse.
+Isso nos motiva a manter a paz com a Primeira Esfera enquanto cabe a nós, a não interferir na Primeira Esfera, a manter as duas esferas radicalmente separadas. Não há espaço para impasse.
 
 ---
 
-Esta separação estrita e o respeito pela autonomia individual também implica que nós não violamos as leis da Primeira Esfera sem necessidade mas em vez disso nos isolemos completamente na Segunda Esfera ou vivemos uma vida dupla: Pagar impostos na Primeira Esfera e manter suas leis enquanto nós estamos por lá, e ignorar a Primeira Esfera sempre que estivermos na Segunda. Isso também inclui não nos beneficiar com a distribuição de espólios da Primeira Esfera e pagar pelos serviços que consumimos lá.
+Esta separação estrita e o respeito pela autonomia individual também implica que nós não violamos as leis da Primeira Esfera sem necessidade, mas em vez disso nos isolemos completamente na Segunda Esfera ou vivamos uma vida dupla: Pagar impostos na Primeira Esfera e manter suas leis enquanto nós estamos por lá, e ignorar a Primeira Esfera sempre que estivermos na Segunda. Isso também inclui não nos beneficiar com a distribuição de espólios da Primeira Esfera e pagar pelos serviços que consumimos lá.
 
-Enquanto essas sugestões podem doer aos muitos arco-libertários, elas não são injustificadas. Tal comportamento não só protege a autonomia da Segunda Esfera como também mostra respeito à autonomia individual dos habitantes da Primeira Esfera, mesmo que essa seja desperdiçada. Além do mais, isso nos ajuda a tomar a decisão de investir na Segunda Esfera e se mudar pra lá de vez, nos removendo da Primeira Esfera. Para a maioria de nós a mudança da Primeira para a Segunda Esfera será progressiva - uma escala variável de radicalização e envolvimento. Alguns vão interromper os planos por vários motivos, acarretando efeitos colaterais.
+Enquanto essas sugestões podem doer aos muitos arco-libertários, elas não são injustificadas. Tal comportamento não só protege a autonomia da Segunda Esfera como também mostra respeito à autonomia individual dos habitantes da Primeira Esfera, mesmo que essa seja desperdiçada. Além do mais, isso nos ajuda a tomar a decisão de investir na Segunda Esfera e se mudar para lá de vez, nos removendo da Primeira Esfera. Para a maioria de nós a mudança da Primeira para a Segunda Esfera será progressiva - uma escala variável de radicalização e envolvimento. Alguns vão interromper os planos por vários motivos, acarretando efeitos colaterais.
 
 A capacidade de implementar tal remoção progressiva e separação estrita faz necessária a delimitação entre as esferas. A mais clara dessas delimitações é que nossas zonas temporárias autônomas físicas e digitais e qualquer interação exclusiva entre habitantes da Segunda Esfera pertence apenas à mesma, com todo o resto estando na Primeira Esfera.
 
@@ -949,9 +949,9 @@ A capacidade de implementar tal remoção progressiva e separação estrita faz 
 
 ## Introdução
 
-É fácil entender que o desenvolvimento de nossa própria cultura da Segunda Esfera é necessária - mas tentativas de artificialmente criar uma cultura não são apenas impossíveis mas contra-produtivas.
+É fácil entender que o desenvolvimento de nossa própria cultura da Segunda Esfera é necessária - mas tentativas de artificialmente criar uma cultura não são apenas impossíveis, mas contra-produtivas.
 
-Cultura é a ordem espontânea que é moldada por indivíduos de uma sociedade, refletindo suas deciões e mentalidades particulares.
+Cultura é a ordem espontânea que é moldada por indivíduos de uma sociedade, refletindo suas decisões e mentalidades particulares.
 
 ---
 
@@ -959,11 +959,11 @@ No entanto há várias coisas que contribuem para a formação de uma cultura.
 
 Uma das mais divertidas é a influência da arte, música e literatura que emana de um contexto cultural e o retro-alimenta. A imaginação de artistas se torna muitas vezes a inspiração de muitos. E vai ser muito animador ver a criatividade nessa área.
 
-Outra influência é a da necessidade. A cultura determina e otimiza as interações sociais, as quais são moldadas pela realidade que aquela sociedade se encontra. Desafios e ameaças, mas também abundancias e bênçãos específicos do ambiente fluem para e através da cultura. Compare as canções de esperança do povo do deserto com as danças energéticas das tribos da selva.
+Outra influência é a da necessidade. A cultura determina e otimiza as interações sociais, as quais são moldadas pela realidade que aquela sociedade se encontra. Desafios e ameaças, mas também abundâncias e bênçãos, específicas do ambiente fluem para e através da cultura. Compare as canções de esperança do povo do deserto com as danças energéticas das tribos da selva.
 
-Valores éticos, morais e religiosos são outro ponto a mencionar. Enquanto muitas vezes refletem a cultura já estabelecida, eles também tem como função serem fatores de fundação da cultura. Isso é evidente em culturas que não tiveram o processo de evolução por um longo periodo de tempo mas de forma rápida e abrupta, como a maior parte das americas.
+Valores éticos, morais e religiosos são outro ponto a mencionar. Enquanto muitas vezes refletem a cultura já estabelecida, eles também tem como função serem fatores de fundação da cultura. Isso é evidente em culturas que não tiveram o processo de evolução por um longo período de tempo mas de forma rápida e abrupta, como a maior parte das américas.
 
-O último grande fator que contribui para uma formação cultural nova se dá na forma de empreendedores culturais. É a sua ousadia, coragem, lucidez e criatividade que planta as primeiras sementes de movimentos culturais e funda novas sociedades. Aqueles que desejam participar da formação de uma cultura da Segunda Esfera devem faze-lo com confiança e ousadia, mas também em apoio mútuo e encorajamento. Muitos experimentos e fracassos serão necessários antes que qualquer grande avanço seja feito, e inevitávelmente cada membro terá um dedo da formação de uma nova sociedade.
+O último grande fator que contribui para uma formação cultural nova se dá na forma de empreendedores culturais. É a sua ousadia, coragem, lucidez e criatividade que planta as primeiras sementes de movimentos culturais e funda novas sociedades. Aqueles que desejam participar da formação de uma cultura da Segunda Esfera devem fazê-lo com confiança e ousadia, mas também em apoio mútuo e encorajamento. Muitos experimentos e fracassos serão necessários antes que qualquer grande avanço seja feito, e inevitavelmente cada membro terá um dedo da formação de uma nova sociedade.
 
 ---
 
@@ -971,7 +971,7 @@ Por isso, devemos nos limitar a contribuir aos fatores de necessidade e valores 
 
 ## A Pintura do Cenário
 
-O primeiro fator decisivo para a cultura da Segunda Esfera é a sua identidade dupla, que consiste tanto de oposição à Primeira Esfera quando a adoção, até celebração, da liberdade e seus valores.
+O primeiro fator decisivo para a cultura da Segunda Esfera é a sua identidade dupla, que consiste tanto de oposição à Primeira Esfera, quanto à adoção, até celebração, da liberdade e seus valores.
 
 Enquanto por um lado somos foras-da-lei, não somos miseráveis. Somos animados, cheios de cor mas também foras-da-lei sérios e realistas.
 
@@ -981,15 +981,15 @@ Em vez disso, associações voluntárias que diferem em estilo e comportamento s
 
 ---
 
-Reputação e respeito são provavelmente os aspectos de unificação mais fortes. Enquanto o respeito é de boa vontade estendido até que se prove desmerecido, a reputação deve ser conquistada pelo comportamento ético e empreendedorismo. Nós saudamos aqueles de nós que são bem sucedidos, que assumem riscos, e aqueles que se levantam após os fracassos. Honestidade e contratos são sagrados, e segredos são respeitados não só por proteger mas também por apimentar à vida.
+Reputação e respeito são provavelmente os aspectos de unificação mais fortes. Enquanto o respeito é de boa vontade estendido até que se prove desmerecido, a reputação deve ser conquistada pelo comportamento ético e empreendedorismo. Nós saudamos aqueles de nós que são bem sucedidos, que assumem riscos, e aqueles que se levantam após os fracassos. Honestidade e contratos são sagrados, e segredos são respeitados não só por proteger mas também por apimentar a vida.
 
-Nem a reputação nem o respeito são palavras vazias para nós. São nossas formas de vínculo e ajuda ao desenvolvimento mútuo. Nós as comunicamos tangencialmente, ao atestar pelos outros, subscrevermos, e estender vínculos para proteger nossos pares e parceiros de negócio. Nessa rede de relações tangíveis, as pessoas se colocam em uma escala de abundância, mas também excluem e acertam as contas rápidamente com mal-feitores e golpistas.
+Nem a reputação nem o respeito são palavras vazias para nós. São nossas formas de vínculo e ajuda ao desenvolvimento mútuo. Nós as comunicamos tangencialmente, ao atestar pelos outros, subscrevermos, e estender vínculos para proteger nossos pares e parceiros de negócio. Nessa rede de relações tangíveis, as pessoas se colocam em uma escala de abundância, mas também excluem e acertam as contas rapidamente com malfeitores e golpistas.
 
 ---
 
 Nós também respeitamos a propriedade sem nos tornarmos escravos de nossos anfitriões. Todo mundo deixa bem claro onde suas fronteiras estão, e permissão para entrar é requisitada e regras locais respeitadas. Muitos usam de símbolos amplamente compreendidos para comunicar rapidamente o que pode e o que não pode ser tolerado em suas propriedades.
 
-Repare, no entando, que ninguém tem que pedir permissão além disso, ou para fazer como deseja com aquilo que é seu. Ninguém deve ser consultado ou licenças obtidas. Indivíduos operam por conta, descentralizados, espontâneos - é mais fácil pedir perdão por erros honestos do que permissão. Mas nós não faltamos com respeito à ordens e regras **aceitas**. Criminosos devem passar por julgamento de seus esquemas, e ladrões espertinhos normalmente acordam com suas restituições justas em posse de suas vítimas.
+Repare, no entanto, que ninguém tem que pedir permissão além disso, ou para fazer como deseja com aquilo que é seu. Ninguém deve ser consultado ou licenças devem ser obtidas. Indivíduos operam por conta própria, descentralizados, espontâneos - é mais fácil pedir perdão por erros honestos do que permissão. Mas nós não faltamos com respeito à ordens e regras **aceitas**. Criminosos devem passar por julgamento de seus esquemas, e ladrões espertinhos normalmente acordam com suas restituições justas em posse de suas vítimas.
 
 Aqueles que vem para destruir nossa sociedade não são recebidos com tochas, mas são amplamente evitados e isolados em ostracismo, e frequentemente encontra suas fotos em cartazes nas entradas de nossas zonas, algumas anexadas a anotações não muito amigáveis.
 
@@ -997,45 +997,45 @@ Aqueles que vem para destruir nossa sociedade não são recebidos com tochas, ma
 
 Respeito pela propriedade não se estende apenas a territórios físicos que ocupemos; ele é integral às partes menos visíveis de nosso mundo, muito do qual ainda se mantém oculto aos vigilantes, escondido atrás de comunicação digital, criptografada e anônima. Isso nos conecta e cria outra esfera onde a propriedade é a privacidade.
 
-Nós protegemos nossos segredos, os valorizamos. Proteger nossa privacidade se torna natural para nós, nos liberta dos olhos famintos de nossos inimigos. Mas nossa privacidade também é um símbolo chave para a autonomia que vivemos. Nós estamos tomando de volta o que o mundo externo totalitário roubou de nós. O que cercas são para atomos, a tecnologia de privacidade de dados é para os bits e bytes. Nós afirmamos que ambas, nossa privacidade e nossa autonomia, nos pertencem e somente a nós: Esse é nosso lugar.
+Nós protegemos nossos segredos, os valorizamos. Proteger nossa privacidade se torna natural para nós, nos liberta dos olhos famintos de nossos inimigos. Mas nossa privacidade também é um símbolo chave para a autonomia que vivemos. Nós estamos tomando de volta o que o mundo externo totalitário roubou de nós. O que cercas são para átomos, a tecnologia de privacidade de dados é para os bits e bytes. Nós afirmamos que ambas, nossa privacidade e nossa autonomia, nos pertencem e somente a nós: Esse é nosso lugar.
 
 ---
 
-Nossos locais de comércio incitam espanto em nossos visitantes. Como uma cultura em exílio nós desenvolvemos práticas incomuns de trocas, alguns de nós especializados em Tradecraft. Seja ao usar mascaras ao fechar um negócio ou apertos de mão às cegas para se chegar a um preço, isso é apenas parte de tudo que acontece. A maioria das trocas acontece no cyberespaço, apoiadas por vínculos e reputações se estendendo do bar do comerciante onde nos encontramos cara a cara, até às profundezas das plataformas seguras de mediação e garantia (escrow).
+Nossos locais de comércio incitam espanto em nossos visitantes. Como uma cultura em exílio, nós desenvolvemos práticas incomuns de trocas, alguns de nós especializados em Tradecraft. Seja ao usar máscaras ao fechar um negócio ou apertos de mão às cegas para se chegar a um preço, isso é apenas parte de tudo que acontece. A maioria das trocas acontece no cyberespaço, apoiadas por vínculos e reputações se estendendo do bar do comerciante onde nos encontramos cara a cara, até às profundezas das plataformas seguras de mediação e garantia (escrow).
 
 ---
 
-Bisbilhotar as conversas em uma de nossas boates irrita o neófito. Palavras e costumes que são desconhecidos para a sujeira da Primeira Esfera, e uma disputa ocasional salpicada de palavrões como "estatista", "burocrata" ou "parasita". De qualquer forma, a pessoa novata será bem-vinda e ensinada, e dada a oportunidade de se provar - caso demonstre vontade e habilidade.
+Bisbilhotar as conversas em uma de nossas boates irrita o neófito. Palavras e costumes que são desconhecidos para a sujeira da Primeira Esfera, e uma disputa ocasional salpicada de palavrões como "Estatista", "burocrata" ou "parasita". De qualquer forma, a pessoa novata será bem-vinda e ensinada, e dada a oportunidade de se provar - caso demonstre vontade e habilidade.
 
 ---
 
-Nem todos de nós vivemos aqui toda a hora. Muitos levam uma vida dupla com uma visita ocasional aos mercados onde são saudados por seus pseudônimos. Outros operam seus negócios parte do dia na Primeira Esfera, e abrem a loja na Segunda Esfera após o pôr do sol. Ainda outros são verdadeiros fantasmas para a Primeira Esfera, não tendo nenhum rastro por lá a não ser ao ir de uma zona autônoma até outra, alguns deles aperfeiçoando seu estilo de vida ao nosso mundo, mas outros que já não aguentam mais a futilidade do outro lado.
+Nem todos nós vivemos aqui a toda a hora. Muitos levam uma vida dupla com uma visita ocasional aos mercados onde são saudados por seus pseudônimos. Outros operam seus negócios parte do dia na Primeira Esfera, e abrem a loja na Segunda Esfera após o pôr do sol. Ainda outros são verdadeiros fantasmas para a Primeira Esfera, não tendo nenhum rastro por lá a não ser ao ir de uma zona autônoma até outra, alguns deles aperfeiçoando seu estilo de vida ao nosso mundo, mas outros que já não aguentam mais a futilidade do outro lado.
 
 ---
 
-Nós somos tribos de mente e alma, não definidos por nação ou raça mas apenas por pensamento e essência. Estamos por toda parte - e estamos aqui pra ficar.
+Nós somos tribos de mente e alma, não definidas por nação ou raça, mas apenas por pensamento e essência. Estamos por toda parte - e estamos aqui pra ficar.
 
 ---
 
-Se você esperava um manual de apertos de mão secretos, de palavras pra usar, moda para vestir, música a se ouvir e opiniões necessárias - você deve estar decepcionado agora.
+Se você esperava um manual de apertos de mão secretos, de palavras para usar, moda para vestir, música a se ouvir e opiniões necessárias - você deve estar decepcionado agora.
 
-Não é nosso trabalho criar essa cultura, empacota-la e entrega-la na sua porta pra você. É o seu trabalho, não o nosso, vive-la.
+Não é nosso trabalho criar essa cultura, empacotá-la e entregá-la na sua porta pra você. É o seu trabalho, não o nosso, vivê-la.
 
 # Considerações Finais
 
-O desenvolvimento de tribos da mente, a Segunda Esfera e a descentralização crescente da sociedade são inevitáveis, caso a humanidade deva progredir e até sobreviver.
+O desenvolvimento de tribos da mente, a Segunda Esfera e a descentralização crescente da sociedade são inevitáveis, caso a humanidade dêva progredir e até sobreviver.
 
-Podemos ver isso em multiplas áreas, especialmente na globalização do comércio, no fracasso da grande mídia, na comunicação digital individual e na queda do nacionalismo. Hoje as pessoas se sentem mais próximas das outras que vivem do outro lado do globo e seguem idéias e culturas muito mais parecidas do que de seus vizinhos locais.
+Podemos ver isso em múltiplas áreas, especialmente na globalização do comércio, no fracasso da grande mídia, na comunicação digital individual e na queda do nacionalismo. Hoje as pessoas se sentem mais próximas das outras que vivem do outro lado do globo e seguem idéias e culturas muito mais parecidas do que de seus vizinhos locais.
 
 ---
 
-Esse processo natural de auto-libertação encontra oposição porque também quebra vários modelos de negócio, ameaça o parasitismo e o controle mental sobre a população, o que muitos sentem prazer ao faze-lo. Esse processo também destroi o *status quo* e o conforto de todos que dependem dele, e acaba com o meme "todo mundo sofre igual" que leva muitos que foram prejudicados a perpetuarem esse comportamento abusivo.
+Esse processo natural de auto-libertação encontra oposição porque também quebra vários modelos de negócio, ameaça o parasitismo e o controle mental sobre a população, o que muitos sentem prazer ao fazê-lo. Esse processo também destrói o *status quo* e o conforto de todos que dependem dele, e acaba com o meme "todo mundo sofre igual" que leva muitos que foram prejudicados a perpetuar esse comportamento abusivo.
 
 ---
 
 Enquanto essa pode ser uma afirmação enorme, é também verdade: Se nós não agirmos e implementarmos mais liberdade, os dias da humanidade podem muito bem estar contados.
 
-Nós vivemos em tempos interessantes que vão moldar o futuro, e é nossa responsabilidade molda-lo de uma forma humana, livre e ética. Ninguém mais vai, e é chegada a hora de parar de pedir permissão e inventar desculpas.
+Nós vivemos em tempos interessantes que vão moldar o futuro, e é nossa responsabilidade moldá-lo de uma forma humana, livre e ética. Ninguém mais vai, e é chegada a hora de parar de pedir permissão e inventar desculpas.
 
 Se você já quis salvar o mundo - essa é a sua chance. E se você só quer viver de forma "correta" e não está interessado no grande esquema das coisas, essa é sua chance também.
 
@@ -1061,19 +1061,19 @@ Caso você ache essa estratégia atraente, a questão de onde ir a partir daqui 
 
 8. Desista do pensamento coletivista, especialmente pedir permissão ou exigir que outros te apoiem antes que você faça qualquer coisa.
 
-9. Desista da cruzada por homogenidade filosófica. Nós sempre vamos discordar em alguns detalhes.
+9. Desista da cruzada por homogeneidade filosófica. Nós sempre vamos discordar em alguns detalhes.
 
 10. Inicie ou apoie cambistas independentes locais. Construa uma posição em moedas digitais, assim você pode participar do comércio paralelo.
 
 11. Viva uma cultura de Liberdade. Apoie a autonomia de outros visivelmente: Respeite-os!
 
-12. Contribua com gentileza e força ao mundo. Caridade e justiça cabem a VOCÊ.
+12. Contribua com gentileza e força ao mundo. Caridade e justiça cabe a VOCÊ.
 
 13. Encoraje outros a trabalhar pela liberdade, que invistam e produzam.
 
 14. Se você é um artista, escritor, músico, designer de moda (ou sei lá), solte suas asas criando nossa nova cultura.
 
-15. Começe por definir seus limites: Evite pessoas que atacam ativamente a liberdade e que negam a autonomia aos outros.
+15. Comece por definir seus limites: Evite pessoas que atacam ativamente a liberdade e que negam a autonomia aos outros.
 
 ---
 
